@@ -1,0 +1,2001 @@
+User_ID,User_Type,Start_Location,Temperature_C,Route_Preference,Hydration_Stops_Clicked,Premium_Plan_Purchased,Cooling_Kit_Revenue_AED,App_Rating
+10001,Daily Commuter,Jumeirah,37,Metro-Taxi Combo,2,0,,5
+10002,Leisure Resident,Deira,44,Metro-Taxi Combo,3,0,,5
+10003,Daily Commuter,Jumeirah,45,Metro-Taxi Combo,4,0,,5
+10004,Daily Commuter,Marina,35,Shaded Walking,2,0,,5
+10005,Tourist,Marina,38,Metro-Taxi Combo,3,0,,5
+10006,Tourist,Downtown Dubai,39,Shaded Walking,3,0,75.0,4
+10007,Tourist,DIFC,44,Indoor Shortcut,2,0,,5
+10008,Leisure Resident,Jumeirah,37,Indoor Shortcut,3,1,,5
+10009,Daily Commuter,Downtown Dubai,37,Shaded Walking,0,0,,3
+10010,Daily Commuter,DIFC,34,Metro-Taxi Combo,2,0,75.0,5
+10011,Tourist,Jumeirah,34,Shaded Walking,2,0,,4
+10012,Leisure Resident,Deira,44,Indoor Shortcut,4,1,,5
+10013,Leisure Resident,Jumeirah,33,Indoor Shortcut,2,1,,5
+10014,Tourist,Marina,47,Shaded Walking,2,0,,4
+10015,Tourist,Marina,37,Metro-Taxi Combo,2,1,,4
+10016,Tourist,Deira,39,Metro-Taxi Combo,2,0,,5
+10017,Tourist,Downtown Dubai,39,Shaded Walking,1,0,,5
+10018,Daily Commuter,DIFC,37,Shaded Walking,2,0,,4
+10019,Daily Commuter,Jumeirah,45,Metro-Taxi Combo,3,0,,5
+10020,Tourist,Marina,34,Indoor Shortcut,1,0,,5
+10021,Daily Commuter,Downtown Dubai,41,Shaded Walking,3,0,45.0,5
+10022,Tourist,Deira,34,Metro-Taxi Combo,3,0,,3
+10023,Tourist,Marina,43,Metro-Taxi Combo,1,0,,5
+10024,Daily Commuter,Deira,48,Indoor Shortcut,1,0,45.0,4
+10025,Daily Commuter,Jumeirah,36,Indoor Shortcut,4,0,,5
+10026,Daily Commuter,DIFC,40,Indoor Shortcut,2,0,,5
+10027,Tourist,Marina,38,Indoor Shortcut,1,0,,4
+10028,Daily Commuter,Marina,35,Indoor Shortcut,1,0,,5
+10029,Daily Commuter,Jumeirah,44,Shaded Walking,0,0,,4
+10030,Tourist,Downtown Dubai,44,Metro-Taxi Combo,2,0,,5
+10031,Daily Commuter,DIFC,41,Shaded Walking,3,0,45.0,5
+10032,Tourist,Marina,48,Shaded Walking,2,0,,5
+10033,Tourist,DIFC,44,Shaded Walking,1,0,,5
+10034,Leisure Resident,Marina,48,Shaded Walking,1,0,,5
+10035,Leisure Resident,DIFC,35,Shaded Walking,4,0,,5
+10036,Leisure Resident,Deira,32,Indoor Shortcut,1,0,,5
+10037,Tourist,Marina,32,Indoor Shortcut,1,0,,4
+10038,Tourist,DIFC,46,Metro-Taxi Combo,3,0,,5
+10039,Daily Commuter,Downtown Dubai,44,Shaded Walking,1,0,45.0,5
+10040,Daily Commuter,Deira,48,Metro-Taxi Combo,1,0,,4
+10041,Tourist,Deira,39,Indoor Shortcut,3,0,,4
+10042,Daily Commuter,Downtown Dubai,44,Indoor Shortcut,2,0,,4
+10043,Tourist,DIFC,45,Indoor Shortcut,2,0,,4
+10044,Leisure Resident,Jumeirah,39,Shaded Walking,2,1,,3
+10045,Tourist,Downtown Dubai,39,Shaded Walking,2,0,,4
+10046,Daily Commuter,DIFC,46,Indoor Shortcut,3,0,,4
+10047,Tourist,Downtown Dubai,44,Metro-Taxi Combo,3,0,,5
+10048,Daily Commuter,Downtown Dubai,38,Metro-Taxi Combo,5,1,,4
+10049,Daily Commuter,Marina,36,Indoor Shortcut,1,0,,5
+10050,Tourist,DIFC,48,Metro-Taxi Combo,3,0,45.0,5
+10051,Leisure Resident,Jumeirah,47,Indoor Shortcut,1,0,,5
+10052,Daily Commuter,Marina,33,Metro-Taxi Combo,0,0,,5
+10053,Leisure Resident,Downtown Dubai,48,Indoor Shortcut,2,0,,2
+10054,Leisure Resident,Downtown Dubai,38,Metro-Taxi Combo,3,0,,5
+10055,Daily Commuter,Downtown Dubai,44,Shaded Walking,1,0,,5
+10056,Leisure Resident,DIFC,45,Indoor Shortcut,4,0,,4
+10057,Tourist,DIFC,44,Indoor Shortcut,1,0,,3
+10058,Tourist,Marina,42,Metro-Taxi Combo,0,0,,3
+10059,Tourist,Jumeirah,47,Indoor Shortcut,2,0,,4
+10060,Tourist,Marina,48,Indoor Shortcut,0,0,,2
+10061,Daily Commuter,Deira,39,Indoor Shortcut,4,0,,5
+10062,Tourist,Downtown Dubai,46,Shaded Walking,1,0,,5
+10063,Leisure Resident,Downtown Dubai,40,Shaded Walking,2,1,,5
+10064,Daily Commuter,Downtown Dubai,41,Metro-Taxi Combo,1,0,,5
+10065,Tourist,Marina,43,Shaded Walking,1,1,75.0,5
+10066,Daily Commuter,Marina,32,Metro-Taxi Combo,1,0,45.0,5
+10067,Tourist,Downtown Dubai,40,Shaded Walking,2,0,,5
+10068,Leisure Resident,Marina,46,Metro-Taxi Combo,1,0,,4
+10069,Tourist,DIFC,32,Shaded Walking,2,0,,5
+10070,Leisure Resident,DIFC,43,Shaded Walking,3,0,,5
+10071,Daily Commuter,Marina,34,Metro-Taxi Combo,4,0,,3
+10072,Tourist,Downtown Dubai,42,Indoor Shortcut,2,0,,5
+10073,Tourist,Marina,33,Indoor Shortcut,2,0,,5
+10074,Leisure Resident,Marina,47,Shaded Walking,3,0,,5
+10075,Daily Commuter,Marina,40,Metro-Taxi Combo,3,1,,4
+10076,Daily Commuter,Deira,46,Indoor Shortcut,2,1,,5
+10077,Daily Commuter,DIFC,43,Metro-Taxi Combo,3,1,,1
+10078,Tourist,Jumeirah,32,Indoor Shortcut,1,0,,4
+10079,Daily Commuter,Jumeirah,44,Metro-Taxi Combo,4,0,,3
+10080,Tourist,Deira,45,Shaded Walking,0,0,45.0,5
+10081,Leisure Resident,Marina,39,Metro-Taxi Combo,5,0,,5
+10082,Daily Commuter,Deira,39,Indoor Shortcut,2,1,,4
+10083,Tourist,Deira,43,Shaded Walking,1,0,45.0,5
+10084,Tourist,Downtown Dubai,32,Metro-Taxi Combo,1,1,,4
+10085,Tourist,DIFC,42,Indoor Shortcut,1,0,,3
+10086,Tourist,Jumeirah,39,Shaded Walking,2,0,,5
+10087,Daily Commuter,Marina,41,Metro-Taxi Combo,1,0,75.0,3
+10088,Daily Commuter,Jumeirah,42,Indoor Shortcut,4,0,,5
+10089,Leisure Resident,Jumeirah,38,Metro-Taxi Combo,3,1,,2
+10090,Daily Commuter,DIFC,42,Metro-Taxi Combo,0,0,,3
+10091,Tourist,Jumeirah,48,Shaded Walking,2,1,,5
+10092,Daily Commuter,Jumeirah,32,Shaded Walking,0,0,,5
+10093,Daily Commuter,Deira,39,Indoor Shortcut,0,0,,2
+10094,Daily Commuter,DIFC,37,Shaded Walking,2,0,,5
+10095,Daily Commuter,Downtown Dubai,37,Indoor Shortcut,3,0,,5
+10096,Daily Commuter,Marina,36,Metro-Taxi Combo,2,0,,5
+10097,Daily Commuter,Jumeirah,44,Metro-Taxi Combo,2,0,,3
+10098,Daily Commuter,Marina,39,Indoor Shortcut,1,0,,5
+10099,Tourist,Downtown Dubai,40,Metro-Taxi Combo,0,0,,5
+10100,Tourist,Marina,48,Shaded Walking,2,0,,2
+10101,Tourist,Downtown Dubai,34,Metro-Taxi Combo,3,0,,5
+10102,Daily Commuter,Deira,42,Shaded Walking,3,0,,5
+10103,Tourist,Jumeirah,48,Indoor Shortcut,3,0,,5
+10104,Daily Commuter,Downtown Dubai,33,Indoor Shortcut,3,0,,5
+10105,Leisure Resident,Marina,39,Metro-Taxi Combo,0,1,,5
+10106,Tourist,Jumeirah,38,Metro-Taxi Combo,1,0,,5
+10107,Daily Commuter,Deira,48,Shaded Walking,2,0,,5
+10108,Daily Commuter,Jumeirah,37,Shaded Walking,1,0,,5
+10109,Tourist,Downtown Dubai,37,Metro-Taxi Combo,4,0,,5
+10110,Tourist,Deira,33,Metro-Taxi Combo,0,1,,4
+10111,Tourist,Marina,37,Indoor Shortcut,1,0,,4
+10112,Tourist,Deira,36,Indoor Shortcut,4,0,,5
+10113,Leisure Resident,Deira,35,Indoor Shortcut,1,0,,1
+10114,Leisure Resident,DIFC,48,Metro-Taxi Combo,2,0,,5
+10115,Daily Commuter,Deira,42,Metro-Taxi Combo,4,0,,5
+10116,Leisure Resident,Deira,35,Metro-Taxi Combo,2,0,,5
+10117,Leisure Resident,Jumeirah,44,Indoor Shortcut,3,0,,-1
+10118,Tourist,Marina,48,Metro-Taxi Combo,1,0,,5
+10119,Leisure Resident,Jumeirah,40,Shaded Walking,2,0,,2
+10120,Daily Commuter,Jumeirah,35,Metro-Taxi Combo,1,0,,5
+10121,Leisure Resident,Downtown Dubai,45,Metro-Taxi Combo,3,0,,4
+10122,Leisure Resident,Jumeirah,34,Metro-Taxi Combo,3,0,,4
+10123,Tourist,DIFC,45,Metro-Taxi Combo,1,0,,4
+10124,Tourist,DIFC,39,Metro-Taxi Combo,3,0,75.0,4
+10125,Tourist,Downtown Dubai,32,Shaded Walking,3,0,,4
+10126,Daily Commuter,Marina,41,Shaded Walking,3,0,,4
+10127,Leisure Resident,Marina,47,Metro-Taxi Combo,2,0,45.0,5
+10128,Leisure Resident,Jumeirah,39,Indoor Shortcut,0,0,,5
+10129,Tourist,Jumeirah,32,Metro-Taxi Combo,4,0,,4
+10130,Daily Commuter,Jumeirah,43,Metro-Taxi Combo,1,0,75.0,4
+10131,Daily Commuter,Marina,39,Metro-Taxi Combo,2,0,,5
+10132,Tourist,Deira,47,Indoor Shortcut,2,0,,5
+10133,Tourist,DIFC,35,Indoor Shortcut,1,0,,5
+10134,Tourist,Deira,37,Indoor Shortcut,2,0,,1
+10135,Leisure Resident,Deira,43,Shaded Walking,6,1,,5
+10136,Tourist,Marina,40,Indoor Shortcut,0,0,,5
+10137,Daily Commuter,Deira,46,Shaded Walking,4,0,,5
+10138,Daily Commuter,Downtown Dubai,47,Shaded Walking,2,0,45.0,3
+10139,Daily Commuter,Jumeirah,43,Indoor Shortcut,1,0,,4
+10140,Leisure Resident,Downtown Dubai,45,Indoor Shortcut,2,0,,4
+10141,Leisure Resident,DIFC,44,Indoor Shortcut,4,0,45.0,4
+10142,Tourist,Jumeirah,33,Shaded Walking,1,0,,5
+10143,Daily Commuter,Deira,34,Metro-Taxi Combo,2,0,,5
+10144,Tourist,DIFC,41,Indoor Shortcut,2,0,,5
+10145,Tourist,Jumeirah,40,Indoor Shortcut,5,0,,5
+10146,Tourist,Deira,39,Indoor Shortcut,1,1,,5
+10147,Daily Commuter,Downtown Dubai,41,Shaded Walking,0,1,,4
+10148,Daily Commuter,Jumeirah,34,Shaded Walking,2,0,,5
+10149,Tourist,Deira,36,Metro-Taxi Combo,1,0,45.0,5
+10150,Tourist,Downtown Dubai,34,Indoor Shortcut,0,0,,4
+10151,Leisure Resident,DIFC,47,Shaded Walking,1,0,,4
+10152,Tourist,DIFC,48,Metro-Taxi Combo,1,0,,5
+10153,Tourist,DIFC,46,Indoor Shortcut,2,0,,5
+10154,Daily Commuter,DIFC,34,Shaded Walking,2,0,45.0,1
+10155,Leisure Resident,Marina,43,Indoor Shortcut,2,0,,5
+10156,Tourist,Jumeirah,40,Indoor Shortcut,0,0,45.0,5
+10157,Daily Commuter,Jumeirah,43,Shaded Walking,3,1,45.0,5
+10158,Daily Commuter,Marina,46,Shaded Walking,1,0,,3
+10159,Tourist,Deira,33,Shaded Walking,1,0,,4
+10160,Daily Commuter,Deira,43,Indoor Shortcut,3,0,45.0,5
+10161,Daily Commuter,DIFC,35,Indoor Shortcut,1,1,,5
+10162,Daily Commuter,Downtown Dubai,47,Metro-Taxi Combo,0,0,75.0,4
+10163,Daily Commuter,Deira,47,Indoor Shortcut,1,0,,4
+10164,Daily Commuter,Downtown Dubai,32,Shaded Walking,2,1,45.0,4
+10165,Tourist,Jumeirah,33,Indoor Shortcut,2,0,,4
+10166,Leisure Resident,Downtown Dubai,34,Metro-Taxi Combo,1,0,,5
+10167,Tourist,Jumeirah,48,Metro-Taxi Combo,1,0,,5
+10168,Tourist,Marina,32,Shaded Walking,4,0,,4
+10169,Tourist,Marina,37,Shaded Walking,3,0,,3
+10170,Daily Commuter,DIFC,46,Metro-Taxi Combo,0,0,45.0,5
+10171,Daily Commuter,Deira,45,Metro-Taxi Combo,1,0,45.0,2
+10172,Tourist,DIFC,46,Metro-Taxi Combo,3,0,,5
+10173,Daily Commuter,Jumeirah,45,Shaded Walking,3,0,,5
+10174,Tourist,DIFC,36,Metro-Taxi Combo,1,0,,5
+10175,Daily Commuter,Downtown Dubai,37,Metro-Taxi Combo,2,1,,4
+10176,Tourist,Jumeirah,48,Shaded Walking,3,0,,2
+10177,Daily Commuter,Marina,42,Indoor Shortcut,1,0,75.0,4
+10178,Daily Commuter,Deira,47,Indoor Shortcut,0,0,,4
+10179,Leisure Resident,Jumeirah,43,Metro-Taxi Combo,2,0,,4
+10180,Tourist,Jumeirah,46,Indoor Shortcut,3,1,,5
+10181,Tourist,Downtown Dubai,35,Indoor Shortcut,2,0,,5
+10182,Tourist,Deira,34,Indoor Shortcut,3,0,,5
+10183,Leisure Resident,Marina,39,Indoor Shortcut,0,0,,4
+10184,Leisure Resident,Jumeirah,34,Metro-Taxi Combo,2,0,,5
+10185,Tourist,Jumeirah,39,Indoor Shortcut,4,0,,5
+10186,Daily Commuter,Downtown Dubai,41,Indoor Shortcut,4,0,,4
+10187,Leisure Resident,DIFC,48,Shaded Walking,2,0,,5
+10188,Daily Commuter,Marina,39,Metro-Taxi Combo,2,0,,4
+10189,Daily Commuter,Deira,42,Shaded Walking,1,0,,4
+10190,Tourist,Jumeirah,36,Shaded Walking,1,0,75.0,3
+10191,Tourist,Jumeirah,44,Metro-Taxi Combo,0,0,,5
+10192,Leisure Resident,Marina,36,Indoor Shortcut,2,0,75.0,5
+10193,Leisure Resident,DIFC,44,Shaded Walking,0,0,,4
+10194,Daily Commuter,Jumeirah,37,Metro-Taxi Combo,1,0,,4
+10195,Tourist,Marina,36,Indoor Shortcut,3,0,,2
+10196,Tourist,Downtown Dubai,40,Metro-Taxi Combo,0,0,45.0,4
+10197,Daily Commuter,DIFC,47,Shaded Walking,2,0,,4
+10198,Leisure Resident,Deira,33,Indoor Shortcut,1,0,,4
+10199,Leisure Resident,Jumeirah,32,Indoor Shortcut,2,1,,4
+10200,Daily Commuter,Marina,39,Metro-Taxi Combo,0,0,,5
+10201,Daily Commuter,Downtown Dubai,42,Indoor Shortcut,2,0,,5
+10202,Tourist,Deira,43,Shaded Walking,1,0,,5
+10203,Tourist,Marina,43,Shaded Walking,3,0,,2
+10204,Leisure Resident,Marina,38,Shaded Walking,3,1,75.0,4
+10205,Daily Commuter,Deira,44,Metro-Taxi Combo,2,0,,4
+10206,Tourist,Downtown Dubai,39,Indoor Shortcut,2,0,75.0,4
+10207,Tourist,Downtown Dubai,40,Indoor Shortcut,2,0,,3
+10208,Daily Commuter,DIFC,38,Indoor Shortcut,0,0,45.0,5
+10209,Tourist,Jumeirah,46,Shaded Walking,2,0,,5
+10210,Tourist,Deira,33,Indoor Shortcut,2,0,,3
+10211,Daily Commuter,Deira,43,Shaded Walking,1,1,,4
+10212,Daily Commuter,Deira,32,Indoor Shortcut,3,0,,5
+10213,Daily Commuter,Downtown Dubai,39,Shaded Walking,1,0,75.0,3
+10214,Tourist,Jumeirah,36,Indoor Shortcut,1,0,,5
+10215,Daily Commuter,DIFC,46,Metro-Taxi Combo,2,0,,5
+10216,Tourist,Marina,32,Metro-Taxi Combo,1,0,,5
+10217,Tourist,Marina,32,Shaded Walking,1,0,,4
+10218,Daily Commuter,Deira,41,Shaded Walking,0,0,,4
+10219,Daily Commuter,Jumeirah,41,Indoor Shortcut,3,0,,4
+10220,Leisure Resident,Downtown Dubai,46,Indoor Shortcut,2,0,,5
+10221,Daily Commuter,Jumeirah,48,Metro-Taxi Combo,2,0,,5
+10222,Daily Commuter,Jumeirah,37,Indoor Shortcut,4,1,,5
+10223,Tourist,Downtown Dubai,34,Shaded Walking,1,1,,5
+10224,Daily Commuter,Deira,44,Shaded Walking,3,0,,5
+10225,Tourist,Jumeirah,47,Shaded Walking,2,0,75.0,5
+10226,Tourist,Marina,39,Shaded Walking,2,1,,5
+10227,Leisure Resident,Downtown Dubai,46,Shaded Walking,1,0,,5
+10228,Daily Commuter,DIFC,48,Metro-Taxi Combo,3,0,,5
+10229,Leisure Resident,Deira,48,Metro-Taxi Combo,1,0,,4
+10230,Daily Commuter,Downtown Dubai,44,Shaded Walking,2,0,,5
+10231,Daily Commuter,DIFC,48,Indoor Shortcut,1,0,,4
+10232,Daily Commuter,DIFC,37,Shaded Walking,3,0,,4
+10233,Daily Commuter,Jumeirah,48,Metro-Taxi Combo,3,0,,5
+10234,Daily Commuter,Jumeirah,47,Shaded Walking,1,0,,5
+10235,Tourist,Jumeirah,45,Metro-Taxi Combo,2,0,,5
+10236,Daily Commuter,Downtown Dubai,44,Metro-Taxi Combo,0,0,45.0,4
+10237,Tourist,Downtown Dubai,37,Shaded Walking,2,0,,5
+10238,Tourist,Deira,34,Shaded Walking,2,1,,4
+10239,Daily Commuter,Jumeirah,45,Indoor Shortcut,0,1,,5
+10240,Tourist,DIFC,45,Metro-Taxi Combo,3,0,,3
+10241,Leisure Resident,Marina,46,Indoor Shortcut,4,0,,5
+10242,Leisure Resident,Deira,39,Shaded Walking,0,0,,5
+10243,Leisure Resident,Downtown Dubai,46,Metro-Taxi Combo,3,0,,4
+10244,Daily Commuter,Deira,44,Indoor Shortcut,1,1,,5
+10245,Tourist,Deira,48,Indoor Shortcut,2,0,,5
+10246,Leisure Resident,Deira,34,Indoor Shortcut,3,0,,4
+10247,Daily Commuter,Deira,37,Shaded Walking,2,0,,1
+10248,Leisure Resident,Marina,36,Shaded Walking,0,0,,4
+10249,Leisure Resident,Jumeirah,48,Shaded Walking,0,1,,4
+10250,Leisure Resident,DIFC,33,Metro-Taxi Combo,1,0,,5
+10251,Tourist,Deira,46,Shaded Walking,4,1,,5
+10252,Daily Commuter,Deira,36,Metro-Taxi Combo,1,0,,3
+10253,Leisure Resident,Deira,37,Indoor Shortcut,0,0,,4
+10254,Tourist,Jumeirah,37,Indoor Shortcut,2,1,,5
+10255,Tourist,Downtown Dubai,35,Shaded Walking,0,1,,3
+10256,Daily Commuter,Downtown Dubai,48,Indoor Shortcut,3,0,,4
+10257,Leisure Resident,Marina,45,Shaded Walking,3,0,,4
+10258,Daily Commuter,Downtown Dubai,45,Metro-Taxi Combo,2,0,,5
+10259,Daily Commuter,Deira,44,Indoor Shortcut,4,0,45.0,5
+10260,Tourist,Deira,38,Shaded Walking,0,0,,5
+10261,Daily Commuter,Deira,43,Indoor Shortcut,4,1,,3
+10262,Leisure Resident,Marina,46,Indoor Shortcut,1,0,,5
+10263,Tourist,Deira,42,Shaded Walking,2,1,,5
+10264,Daily Commuter,Downtown Dubai,46,Indoor Shortcut,1,0,,5
+10265,Leisure Resident,Jumeirah,43,Indoor Shortcut,1,0,45.0,4
+10266,Daily Commuter,Jumeirah,34,Indoor Shortcut,4,1,,5
+10267,Daily Commuter,DIFC,48,Indoor Shortcut,0,0,,5
+10268,Daily Commuter,Downtown Dubai,34,Metro-Taxi Combo,0,0,,4
+10269,Daily Commuter,Deira,35,Indoor Shortcut,3,0,,4
+10270,Tourist,Jumeirah,34,Indoor Shortcut,1,0,,5
+10271,Leisure Resident,Downtown Dubai,47,Shaded Walking,2,0,,5
+10272,Leisure Resident,Jumeirah,43,Metro-Taxi Combo,1,0,45.0,5
+10273,Leisure Resident,Deira,39,Shaded Walking,2,0,,5
+10274,Leisure Resident,Jumeirah,48,Shaded Walking,3,0,,5
+10275,Daily Commuter,DIFC,38,Shaded Walking,3,0,,3
+10276,Daily Commuter,DIFC,42,Metro-Taxi Combo,1,0,,4
+10277,Daily Commuter,Jumeirah,32,Shaded Walking,1,0,,5
+10278,Daily Commuter,Downtown Dubai,34,Shaded Walking,1,0,,4
+10279,Daily Commuter,Downtown Dubai,35,Shaded Walking,2,0,,3
+10280,Daily Commuter,Downtown Dubai,44,Indoor Shortcut,2,0,,5
+10281,Leisure Resident,Jumeirah,37,Shaded Walking,4,0,,5
+10282,Tourist,Downtown Dubai,45,Metro-Taxi Combo,4,0,,4
+10283,Daily Commuter,Deira,36,Metro-Taxi Combo,4,0,,4
+10284,Tourist,DIFC,47,Indoor Shortcut,2,0,45.0,4
+10285,Daily Commuter,Deira,46,Metro-Taxi Combo,2,0,,2
+10286,Tourist,Downtown Dubai,46,Metro-Taxi Combo,0,0,45.0,5
+10287,Daily Commuter,Deira,35,Indoor Shortcut,2,1,,4
+10288,Daily Commuter,Downtown Dubai,39,Shaded Walking,1,1,,5
+10289,Tourist,Jumeirah,47,Indoor Shortcut,2,0,,5
+10290,Daily Commuter,Deira,47,Shaded Walking,2,0,,5
+10291,Tourist,Jumeirah,35,Shaded Walking,1,0,,4
+10292,Tourist,Jumeirah,44,Metro-Taxi Combo,5,0,,5
+10293,Leisure Resident,Marina,44,Indoor Shortcut,1,0,,4
+10294,Daily Commuter,Downtown Dubai,33,Metro-Taxi Combo,3,0,45.0,4
+10295,Tourist,DIFC,34,Metro-Taxi Combo,2,1,,5
+10296,Daily Commuter,Downtown Dubai,39,Shaded Walking,3,1,,4
+10297,Daily Commuter,DIFC,46,Metro-Taxi Combo,4,0,,5
+10298,Tourist,Downtown Dubai,42,Indoor Shortcut,1,0,,3
+10299,Daily Commuter,Jumeirah,40,Metro-Taxi Combo,0,0,,3
+10300,Tourist,Deira,38,Metro-Taxi Combo,4,0,,5
+10301,Tourist,Deira,44,Shaded Walking,3,0,,5
+10302,Daily Commuter,Marina,33,Indoor Shortcut,1,0,,5
+10303,Daily Commuter,DIFC,39,Metro-Taxi Combo,2,0,45.0,5
+10304,Daily Commuter,DIFC,38,Shaded Walking,4,0,,4
+10305,Daily Commuter,DIFC,43,Metro-Taxi Combo,3,0,,5
+10306,Leisure Resident,Jumeirah,38,Indoor Shortcut,1,0,,3
+10307,Daily Commuter,DIFC,41,Metro-Taxi Combo,0,0,,5
+10308,Tourist,Deira,47,Metro-Taxi Combo,4,0,75.0,5
+10309,Daily Commuter,Jumeirah,34,Shaded Walking,1,0,,5
+10310,Tourist,Downtown Dubai,41,Metro-Taxi Combo,1,0,,5
+10311,Daily Commuter,DIFC,37,Shaded Walking,3,0,,3
+10312,Tourist,DIFC,36,Indoor Shortcut,3,0,,5
+10313,Tourist,Downtown Dubai,38,Metro-Taxi Combo,2,0,,3
+10314,Leisure Resident,DIFC,33,Indoor Shortcut,0,0,45.0,4
+10315,Leisure Resident,Downtown Dubai,42,Indoor Shortcut,3,0,,2
+10316,Daily Commuter,Jumeirah,44,Metro-Taxi Combo,1,1,,5
+10317,Daily Commuter,Deira,36,Shaded Walking,1,0,,3
+10318,Tourist,Downtown Dubai,37,Indoor Shortcut,2,0,75.0,4
+10319,Tourist,Marina,45,Indoor Shortcut,1,1,,5
+10320,Tourist,Downtown Dubai,43,Metro-Taxi Combo,1,0,,5
+10321,Daily Commuter,DIFC,35,Metro-Taxi Combo,2,0,,3
+10322,Daily Commuter,Jumeirah,37,Metro-Taxi Combo,1,0,45.0,4
+10323,Daily Commuter,Jumeirah,41,Metro-Taxi Combo,3,0,,5
+10324,Tourist,Downtown Dubai,46,Metro-Taxi Combo,1,0,45.0,5
+10325,Leisure Resident,Deira,39,Metro-Taxi Combo,1,0,,2
+10326,Daily Commuter,Marina,40,Shaded Walking,4,0,75.0,5
+10327,Daily Commuter,Jumeirah,36,Indoor Shortcut,1,0,,5
+10328,Daily Commuter,DIFC,41,Shaded Walking,3,0,45.0,5
+10329,Daily Commuter,DIFC,37,Shaded Walking,1,0,,5
+10330,Tourist,Deira,47,Metro-Taxi Combo,0,0,75.0,5
+10331,Daily Commuter,Jumeirah,34,Indoor Shortcut,3,0,,5
+10332,Daily Commuter,Downtown Dubai,41,Shaded Walking,1,0,,4
+10333,Tourist,DIFC,42,Metro-Taxi Combo,0,0,,5
+10334,Tourist,Deira,42,Metro-Taxi Combo,3,0,,5
+10335,Tourist,Jumeirah,48,Indoor Shortcut,1,0,45.0,4
+10336,Tourist,Jumeirah,35,Shaded Walking,1,0,,5
+10337,Leisure Resident,Jumeirah,35,Shaded Walking,4,0,,4
+10338,Daily Commuter,Jumeirah,48,Shaded Walking,2,0,45.0,3
+10339,Daily Commuter,Jumeirah,40,Metro-Taxi Combo,3,0,,4
+10340,Tourist,DIFC,36,Indoor Shortcut,2,0,45.0,5
+10341,Daily Commuter,Deira,37,Indoor Shortcut,1,0,,5
+10342,Daily Commuter,Jumeirah,34,Shaded Walking,0,0,,4
+10343,Tourist,Marina,32,Metro-Taxi Combo,2,0,,5
+10344,Daily Commuter,Marina,47,Shaded Walking,0,0,,3
+10345,Daily Commuter,Deira,42,Indoor Shortcut,3,0,75.0,5
+10346,Daily Commuter,Downtown Dubai,44,Metro-Taxi Combo,1,0,,5
+10347,Daily Commuter,Downtown Dubai,41,Shaded Walking,0,1,75.0,5
+10348,Tourist,Downtown Dubai,34,Shaded Walking,1,0,,5
+10349,Daily Commuter,Marina,40,Metro-Taxi Combo,1,0,75.0,4
+10350,Daily Commuter,Downtown Dubai,43,Indoor Shortcut,4,0,,5
+10351,Daily Commuter,DIFC,45,Metro-Taxi Combo,3,0,,5
+10352,Leisure Resident,Jumeirah,32,Shaded Walking,3,0,,3
+10353,Daily Commuter,Marina,48,Shaded Walking,1,0,,5
+10354,Tourist,Deira,40,Shaded Walking,2,0,,5
+10355,Tourist,Deira,40,Shaded Walking,3,1,,4
+10356,Daily Commuter,Jumeirah,41,Indoor Shortcut,3,0,,5
+10357,Tourist,Marina,46,Indoor Shortcut,4,0,,5
+10358,Daily Commuter,Downtown Dubai,36,Shaded Walking,0,0,,5
+10359,Leisure Resident,Downtown Dubai,46,Indoor Shortcut,0,1,,4
+10360,Daily Commuter,DIFC,33,Indoor Shortcut,3,0,,4
+10361,Daily Commuter,DIFC,44,Indoor Shortcut,2,0,45.0,2
+10362,Daily Commuter,Downtown Dubai,47,Shaded Walking,1,0,,5
+10363,Daily Commuter,Deira,46,Metro-Taxi Combo,1,0,45.0,5
+10364,Daily Commuter,Deira,41,Metro-Taxi Combo,1,0,,5
+10365,Leisure Resident,DIFC,45,Metro-Taxi Combo,3,0,,4
+10366,Daily Commuter,Jumeirah,41,Shaded Walking,1,0,,3
+10367,Leisure Resident,Downtown Dubai,45,Indoor Shortcut,0,0,,5
+10368,Leisure Resident,DIFC,40,Indoor Shortcut,1,0,45.0,5
+10369,Tourist,DIFC,45,Shaded Walking,5,0,,5
+10370,Tourist,Downtown Dubai,34,Shaded Walking,1,0,,5
+10371,Tourist,Downtown Dubai,47,Metro-Taxi Combo,0,0,75.0,5
+10372,Tourist,Deira,33,Metro-Taxi Combo,3,0,,5
+10373,Tourist,Jumeirah,41,Shaded Walking,2,0,,5
+10374,Daily Commuter,Jumeirah,34,Metro-Taxi Combo,1,1,,4
+10375,Tourist,Downtown Dubai,42,Indoor Shortcut,1,0,45.0,5
+10376,Tourist,Marina,42,Shaded Walking,4,0,,5
+10377,Leisure Resident,DIFC,44,Shaded Walking,1,0,,4
+10378,Tourist,DIFC,38,Indoor Shortcut,2,0,,3
+10379,Leisure Resident,Downtown Dubai,48,Indoor Shortcut,2,0,,4
+10380,Tourist,Marina,33,Indoor Shortcut,1,0,45.0,5
+10381,Tourist,Deira,43,Metro-Taxi Combo,4,0,,4
+10382,Daily Commuter,Downtown Dubai,41,Shaded Walking,1,0,,4
+10383,Daily Commuter,Downtown Dubai,42,Metro-Taxi Combo,0,1,45.0,5
+10384,Leisure Resident,DIFC,47,Indoor Shortcut,2,1,,4
+10385,Daily Commuter,Downtown Dubai,48,Metro-Taxi Combo,0,0,,5
+10386,Leisure Resident,Downtown Dubai,34,Indoor Shortcut,3,1,,4
+10387,Tourist,Downtown Dubai,47,Metro-Taxi Combo,0,1,,5
+10388,Tourist,DIFC,37,Metro-Taxi Combo,5,0,,3
+10389,Daily Commuter,Deira,43,Indoor Shortcut,3,0,,4
+10390,Leisure Resident,Deira,42,Metro-Taxi Combo,1,0,,4
+10391,Leisure Resident,Downtown Dubai,46,Shaded Walking,2,0,,5
+10392,Daily Commuter,DIFC,46,Metro-Taxi Combo,2,0,,5
+10393,Daily Commuter,Deira,47,Metro-Taxi Combo,2,0,,4
+10394,Daily Commuter,Deira,41,Shaded Walking,1,0,,5
+10395,Tourist,Deira,43,Indoor Shortcut,4,0,45.0,4
+10396,Leisure Resident,DIFC,44,Shaded Walking,1,0,,-1
+10397,Leisure Resident,DIFC,35,Metro-Taxi Combo,4,0,75.0,5
+10398,Daily Commuter,Downtown Dubai,38,Indoor Shortcut,0,0,45.0,5
+10399,Daily Commuter,Jumeirah,33,Metro-Taxi Combo,2,1,,5
+10400,Daily Commuter,Deira,46,Metro-Taxi Combo,2,0,,5
+10401,Tourist,Jumeirah,39,Shaded Walking,1,1,,5
+10402,Leisure Resident,DIFC,38,Shaded Walking,4,0,,5
+10403,Daily Commuter,DIFC,46,Indoor Shortcut,2,0,,5
+10404,Leisure Resident,DIFC,45,Indoor Shortcut,4,0,,5
+10405,Tourist,Jumeirah,39,Indoor Shortcut,2,1,,5
+10406,Leisure Resident,DIFC,43,Metro-Taxi Combo,3,1,,5
+10407,Daily Commuter,Downtown Dubai,44,Shaded Walking,3,0,,5
+10408,Tourist,DIFC,42,Shaded Walking,1,0,,5
+10409,Leisure Resident,Marina,48,Shaded Walking,0,0,,4
+10410,Tourist,Jumeirah,48,Indoor Shortcut,1,0,,4
+10411,Tourist,Marina,35,Shaded Walking,2,0,75.0,3
+10412,Leisure Resident,DIFC,39,Shaded Walking,2,0,,5
+10413,Leisure Resident,Downtown Dubai,36,Shaded Walking,4,1,,4
+10414,Daily Commuter,Deira,47,Indoor Shortcut,1,1,,-1
+10415,Daily Commuter,DIFC,35,Shaded Walking,3,0,,5
+10416,Daily Commuter,Downtown Dubai,46,Indoor Shortcut,4,0,,5
+10417,Tourist,Jumeirah,43,Shaded Walking,4,1,,4
+10418,Tourist,Marina,36,Shaded Walking,1,0,,5
+10419,Daily Commuter,Marina,47,Shaded Walking,2,1,,5
+10420,Daily Commuter,Marina,45,Indoor Shortcut,3,0,,5
+10421,Daily Commuter,Jumeirah,41,Indoor Shortcut,0,1,,4
+10422,Daily Commuter,Downtown Dubai,38,Shaded Walking,1,0,,5
+10423,Tourist,Jumeirah,44,Metro-Taxi Combo,2,0,,5
+10424,Daily Commuter,Marina,36,Indoor Shortcut,3,0,,5
+10425,Tourist,DIFC,34,Indoor Shortcut,2,1,,5
+10426,Daily Commuter,Deira,46,Shaded Walking,1,0,,5
+10427,Daily Commuter,Jumeirah,35,Metro-Taxi Combo,1,1,,5
+10428,Leisure Resident,Jumeirah,46,Shaded Walking,0,0,45.0,5
+10429,Daily Commuter,Downtown Dubai,45,Indoor Shortcut,2,0,,5
+10430,Tourist,Downtown Dubai,44,Indoor Shortcut,2,0,,5
+10431,Tourist,Jumeirah,41,Shaded Walking,1,0,,4
+10432,Daily Commuter,Marina,36,Shaded Walking,2,0,,4
+10433,Daily Commuter,Deira,37,Metro-Taxi Combo,3,0,75.0,4
+10434,Tourist,Downtown Dubai,35,Metro-Taxi Combo,2,0,,1
+10435,Tourist,Marina,33,Indoor Shortcut,2,0,,4
+10436,Daily Commuter,DIFC,47,Metro-Taxi Combo,3,0,,1
+10437,Tourist,Downtown Dubai,36,Metro-Taxi Combo,2,0,,5
+10438,Leisure Resident,Marina,35,Indoor Shortcut,2,0,,4
+10439,Daily Commuter,Marina,44,Indoor Shortcut,1,0,,4
+10440,Tourist,Deira,33,Indoor Shortcut,4,0,,5
+10441,Tourist,Deira,44,Indoor Shortcut,5,0,45.0,5
+10442,Leisure Resident,DIFC,42,Shaded Walking,1,1,75.0,5
+10443,Daily Commuter,Marina,35,Indoor Shortcut,1,1,,5
+10444,Daily Commuter,Marina,46,Indoor Shortcut,4,1,,4
+10445,Leisure Resident,Deira,35,Indoor Shortcut,2,0,,4
+10446,Leisure Resident,Downtown Dubai,40,Metro-Taxi Combo,4,0,45.0,4
+10447,Leisure Resident,Downtown Dubai,38,Indoor Shortcut,3,0,,4
+10448,Daily Commuter,Jumeirah,37,Shaded Walking,2,0,,4
+10449,Daily Commuter,Deira,37,Shaded Walking,2,0,,-1
+10450,Tourist,Jumeirah,46,Indoor Shortcut,0,0,,1
+10451,Daily Commuter,Deira,46,Shaded Walking,2,0,,4
+10452,Daily Commuter,DIFC,40,Metro-Taxi Combo,0,0,,4
+10453,Daily Commuter,Marina,35,Indoor Shortcut,4,0,45.0,5
+10454,Leisure Resident,DIFC,36,Shaded Walking,3,1,,4
+10455,Tourist,Deira,42,Shaded Walking,3,0,,4
+10456,Daily Commuter,Marina,36,Indoor Shortcut,0,0,,3
+10457,Tourist,Downtown Dubai,35,Shaded Walking,4,0,,4
+10458,Daily Commuter,Downtown Dubai,43,Indoor Shortcut,2,0,,3
+10459,Tourist,Jumeirah,33,Shaded Walking,1,0,,5
+10460,Tourist,Deira,44,Metro-Taxi Combo,1,0,,3
+10461,Tourist,Deira,41,Shaded Walking,3,0,,5
+10462,Daily Commuter,Downtown Dubai,40,Shaded Walking,2,1,,5
+10463,Daily Commuter,DIFC,41,Indoor Shortcut,1,0,,5
+10464,Daily Commuter,Marina,38,Shaded Walking,2,0,,4
+10465,Leisure Resident,DIFC,35,Indoor Shortcut,1,0,,4
+10466,Daily Commuter,DIFC,41,Metro-Taxi Combo,2,0,,3
+10467,Tourist,Downtown Dubai,34,Indoor Shortcut,3,0,,5
+10468,Leisure Resident,Downtown Dubai,33,Indoor Shortcut,2,0,,5
+10469,Tourist,Downtown Dubai,41,Shaded Walking,1,0,,4
+10470,Leisure Resident,Jumeirah,33,Metro-Taxi Combo,0,1,75.0,5
+10471,Tourist,DIFC,33,Indoor Shortcut,0,0,45.0,5
+10472,Leisure Resident,Deira,48,Shaded Walking,1,0,,5
+10473,Tourist,Marina,47,Shaded Walking,2,0,,3
+10474,Leisure Resident,Jumeirah,47,Indoor Shortcut,2,0,,5
+10475,Daily Commuter,Deira,45,Shaded Walking,2,0,45.0,3
+10476,Leisure Resident,DIFC,38,Indoor Shortcut,1,1,,5
+10477,Tourist,Downtown Dubai,42,Indoor Shortcut,1,0,,4
+10478,Daily Commuter,DIFC,32,Indoor Shortcut,2,0,,3
+10479,Leisure Resident,Marina,42,Metro-Taxi Combo,0,0,45.0,5
+10480,Daily Commuter,Jumeirah,35,Indoor Shortcut,1,0,,5
+10481,Daily Commuter,Jumeirah,38,Shaded Walking,3,0,,4
+10482,Daily Commuter,Marina,46,Metro-Taxi Combo,0,0,,2
+10483,Daily Commuter,Deira,43,Shaded Walking,0,0,,5
+10484,Daily Commuter,Deira,48,Metro-Taxi Combo,1,0,,5
+10485,Daily Commuter,Jumeirah,32,Metro-Taxi Combo,1,0,,5
+10486,Leisure Resident,Jumeirah,42,Metro-Taxi Combo,0,0,45.0,5
+10487,Tourist,Downtown Dubai,32,Metro-Taxi Combo,2,0,45.0,3
+10488,Tourist,Deira,46,Shaded Walking,2,0,75.0,5
+10489,Leisure Resident,Marina,41,Indoor Shortcut,2,0,,5
+10490,Leisure Resident,Deira,38,Shaded Walking,0,1,,5
+10491,Daily Commuter,Downtown Dubai,33,Indoor Shortcut,3,0,,3
+10492,Daily Commuter,Jumeirah,41,Shaded Walking,0,1,,5
+10493,Tourist,Jumeirah,35,Metro-Taxi Combo,2,0,,5
+10494,Tourist,Downtown Dubai,43,Metro-Taxi Combo,3,0,,5
+10495,Daily Commuter,Marina,42,Indoor Shortcut,4,1,,5
+10496,Daily Commuter,Jumeirah,39,Indoor Shortcut,2,0,75.0,5
+10497,Daily Commuter,DIFC,42,Shaded Walking,2,0,,5
+10498,Tourist,Jumeirah,42,Indoor Shortcut,1,0,,4
+10499,Leisure Resident,DIFC,44,Shaded Walking,4,0,,4
+10500,Leisure Resident,Downtown Dubai,34,Indoor Shortcut,3,0,,5
+10501,Daily Commuter,Downtown Dubai,43,Indoor Shortcut,3,0,45.0,5
+10502,Daily Commuter,Jumeirah,34,Indoor Shortcut,2,0,,3
+10503,Tourist,Deira,41,Metro-Taxi Combo,1,1,,5
+10504,Leisure Resident,DIFC,48,Metro-Taxi Combo,3,1,,4
+10505,Daily Commuter,Marina,33,Shaded Walking,1,0,,4
+10506,Tourist,Jumeirah,48,Indoor Shortcut,0,0,,5
+10507,Leisure Resident,Marina,47,Shaded Walking,3,0,,5
+10508,Leisure Resident,Jumeirah,33,Indoor Shortcut,2,0,,1
+10509,Leisure Resident,Deira,37,Metro-Taxi Combo,3,0,,5
+10510,Daily Commuter,Deira,41,Metro-Taxi Combo,3,0,,5
+10511,Daily Commuter,Deira,41,Indoor Shortcut,0,0,,5
+10512,Daily Commuter,Deira,39,Indoor Shortcut,3,0,45.0,4
+10513,Leisure Resident,Downtown Dubai,32,Metro-Taxi Combo,2,0,,5
+10514,Leisure Resident,Downtown Dubai,44,Metro-Taxi Combo,2,0,,4
+10515,Tourist,DIFC,40,Shaded Walking,3,0,,4
+10516,Tourist,Marina,41,Metro-Taxi Combo,1,0,,5
+10517,Daily Commuter,Jumeirah,46,Indoor Shortcut,1,0,,5
+10518,Leisure Resident,Jumeirah,36,Shaded Walking,2,1,,2
+10519,Leisure Resident,Downtown Dubai,47,Indoor Shortcut,1,0,,5
+10520,Tourist,Jumeirah,44,Shaded Walking,0,1,,5
+10521,Daily Commuter,Downtown Dubai,42,Indoor Shortcut,2,0,,5
+10522,Daily Commuter,DIFC,40,Metro-Taxi Combo,4,0,,5
+10523,Leisure Resident,Marina,47,Indoor Shortcut,2,0,,4
+10524,Leisure Resident,DIFC,33,Shaded Walking,0,0,,5
+10525,Leisure Resident,Deira,33,Indoor Shortcut,1,0,,4
+10526,Daily Commuter,Deira,43,Shaded Walking,5,0,,5
+10527,Daily Commuter,Deira,39,Indoor Shortcut,4,0,,4
+10528,Tourist,DIFC,40,Metro-Taxi Combo,4,1,,4
+10529,Tourist,Jumeirah,43,Metro-Taxi Combo,4,0,,5
+10530,Leisure Resident,Marina,40,Indoor Shortcut,3,0,,4
+10531,Leisure Resident,Deira,41,Indoor Shortcut,2,0,45.0,4
+10532,Leisure Resident,Deira,33,Indoor Shortcut,1,0,45.0,4
+10533,Leisure Resident,Deira,47,Shaded Walking,1,0,,5
+10534,Daily Commuter,Marina,38,Indoor Shortcut,1,0,,5
+10535,Daily Commuter,Deira,33,Indoor Shortcut,0,0,,4
+10536,Leisure Resident,Marina,32,Shaded Walking,1,0,,4
+10537,Leisure Resident,Deira,35,Metro-Taxi Combo,4,0,,4
+10538,Tourist,DIFC,33,Indoor Shortcut,0,0,,5
+10539,Daily Commuter,DIFC,45,Indoor Shortcut,1,0,,5
+10540,Tourist,Marina,33,Metro-Taxi Combo,3,0,,3
+10541,Leisure Resident,DIFC,46,Metro-Taxi Combo,1,0,,4
+10542,Daily Commuter,Marina,43,Shaded Walking,2,0,,4
+10543,Tourist,DIFC,36,Indoor Shortcut,1,1,,4
+10544,Daily Commuter,DIFC,38,Indoor Shortcut,2,0,,4
+10545,Daily Commuter,Marina,41,Shaded Walking,3,0,,5
+10546,Daily Commuter,Jumeirah,45,Metro-Taxi Combo,1,0,,4
+10547,Tourist,DIFC,45,Shaded Walking,5,0,,5
+10548,Daily Commuter,Deira,36,Metro-Taxi Combo,5,0,,5
+10549,Daily Commuter,Jumeirah,45,Shaded Walking,1,0,,4
+10550,Daily Commuter,Marina,33,Metro-Taxi Combo,0,0,,5
+10551,Daily Commuter,Jumeirah,43,Shaded Walking,1,0,,5
+10552,Leisure Resident,Downtown Dubai,37,Metro-Taxi Combo,3,0,,4
+10553,Daily Commuter,Downtown Dubai,35,Metro-Taxi Combo,1,1,,5
+10554,Daily Commuter,DIFC,44,Metro-Taxi Combo,0,0,,4
+10555,Leisure Resident,DIFC,35,Metro-Taxi Combo,3,1,,5
+10556,Daily Commuter,Deira,45,Metro-Taxi Combo,2,0,,5
+10557,Tourist,Jumeirah,47,Indoor Shortcut,0,0,,5
+10558,Tourist,Downtown Dubai,35,Metro-Taxi Combo,0,0,,5
+10559,Daily Commuter,DIFC,32,Indoor Shortcut,1,0,,5
+10560,Daily Commuter,Jumeirah,44,Metro-Taxi Combo,2,0,,5
+10561,Daily Commuter,DIFC,35,Indoor Shortcut,1,1,,5
+10562,Tourist,DIFC,37,Indoor Shortcut,0,0,,4
+10563,Tourist,Downtown Dubai,34,Shaded Walking,3,0,,5
+10564,Tourist,Downtown Dubai,44,Metro-Taxi Combo,0,0,,3
+10565,Daily Commuter,DIFC,47,Shaded Walking,2,0,,3
+10566,Daily Commuter,Marina,36,Shaded Walking,1,0,,5
+10567,Daily Commuter,DIFC,35,Metro-Taxi Combo,1,0,45.0,3
+10568,Daily Commuter,DIFC,39,Shaded Walking,3,0,,4
+10569,Leisure Resident,Deira,45,Metro-Taxi Combo,2,0,,5
+10570,Tourist,Deira,38,Shaded Walking,3,0,,1
+10571,Daily Commuter,Deira,45,Metro-Taxi Combo,3,0,45.0,4
+10572,Daily Commuter,Marina,37,Metro-Taxi Combo,5,0,,5
+10573,Daily Commuter,Marina,43,Metro-Taxi Combo,2,0,,5
+10574,Daily Commuter,DIFC,47,Indoor Shortcut,0,0,,5
+10575,Leisure Resident,Deira,48,Shaded Walking,1,0,45.0,5
+10576,Leisure Resident,Marina,44,Indoor Shortcut,1,0,,5
+10577,Tourist,Downtown Dubai,45,Shaded Walking,2,1,,5
+10578,Leisure Resident,DIFC,38,Shaded Walking,3,0,45.0,4
+10579,Daily Commuter,Jumeirah,45,Shaded Walking,4,0,,5
+10580,Tourist,DIFC,46,Indoor Shortcut,0,0,,5
+10581,Daily Commuter,Jumeirah,43,Shaded Walking,1,0,,4
+10582,Leisure Resident,Deira,48,Indoor Shortcut,2,0,,4
+10583,Daily Commuter,Jumeirah,40,Metro-Taxi Combo,2,0,,1
+10584,Tourist,Deira,46,Shaded Walking,3,0,45.0,5
+10585,Daily Commuter,Downtown Dubai,43,Shaded Walking,1,0,,2
+10586,Tourist,Jumeirah,33,Metro-Taxi Combo,1,0,,5
+10587,Tourist,DIFC,36,Metro-Taxi Combo,2,1,,5
+10588,Tourist,Deira,44,Shaded Walking,0,0,,5
+10589,Tourist,DIFC,39,Metro-Taxi Combo,3,0,,4
+10590,Tourist,Marina,45,Indoor Shortcut,3,0,,5
+10591,Tourist,Deira,46,Indoor Shortcut,3,0,,4
+10592,Daily Commuter,Jumeirah,42,Shaded Walking,3,0,45.0,5
+10593,Tourist,Deira,32,Indoor Shortcut,2,0,,5
+10594,Tourist,DIFC,34,Indoor Shortcut,5,0,,4
+10595,Leisure Resident,Downtown Dubai,48,Shaded Walking,3,0,,5
+10596,Daily Commuter,Deira,45,Metro-Taxi Combo,1,0,,4
+10597,Daily Commuter,Jumeirah,39,Shaded Walking,4,0,,-1
+10598,Tourist,Marina,44,Indoor Shortcut,2,0,45.0,1
+10599,Tourist,Downtown Dubai,34,Shaded Walking,2,0,,4
+10600,Tourist,Marina,36,Shaded Walking,0,0,,4
+10601,Tourist,Deira,40,Indoor Shortcut,1,0,45.0,1
+10602,Tourist,DIFC,37,Indoor Shortcut,2,0,,5
+10603,Tourist,DIFC,33,Shaded Walking,1,1,,5
+10604,Tourist,Jumeirah,44,Indoor Shortcut,3,0,,5
+10605,Tourist,DIFC,36,Indoor Shortcut,5,0,45.0,4
+10606,Daily Commuter,Downtown Dubai,39,Indoor Shortcut,2,0,,4
+10607,Tourist,DIFC,32,Indoor Shortcut,2,0,,5
+10608,Daily Commuter,Jumeirah,43,Indoor Shortcut,2,0,,4
+10609,Daily Commuter,Deira,42,Indoor Shortcut,1,0,,5
+10610,Daily Commuter,Deira,38,Metro-Taxi Combo,1,0,,5
+10611,Tourist,DIFC,46,Shaded Walking,3,0,,3
+10612,Daily Commuter,Marina,42,Indoor Shortcut,4,0,45.0,5
+10613,Daily Commuter,Deira,47,Shaded Walking,2,0,,5
+10614,Tourist,DIFC,34,Metro-Taxi Combo,4,0,,5
+10615,Leisure Resident,Jumeirah,45,Indoor Shortcut,2,0,,4
+10616,Leisure Resident,DIFC,34,Shaded Walking,3,1,,4
+10617,Tourist,Deira,32,Indoor Shortcut,2,0,,4
+10618,Tourist,Jumeirah,46,Indoor Shortcut,3,1,,4
+10619,Leisure Resident,DIFC,32,Indoor Shortcut,2,0,,4
+10620,Daily Commuter,Downtown Dubai,48,Indoor Shortcut,3,0,,5
+10621,Tourist,Jumeirah,33,Indoor Shortcut,0,0,,5
+10622,Tourist,Downtown Dubai,37,Indoor Shortcut,2,0,,5
+10623,Daily Commuter,Marina,39,Indoor Shortcut,2,0,45.0,4
+10624,Daily Commuter,Jumeirah,47,Metro-Taxi Combo,3,0,75.0,5
+10625,Daily Commuter,Downtown Dubai,32,Metro-Taxi Combo,2,0,45.0,4
+10626,Daily Commuter,Deira,34,Indoor Shortcut,0,0,,5
+10627,Daily Commuter,Deira,34,Indoor Shortcut,1,0,45.0,5
+10628,Daily Commuter,Marina,36,Metro-Taxi Combo,4,0,,5
+10629,Tourist,Jumeirah,43,Metro-Taxi Combo,2,0,,-1
+10630,Tourist,Jumeirah,43,Metro-Taxi Combo,2,0,45.0,5
+10631,Daily Commuter,Jumeirah,44,Indoor Shortcut,1,0,,4
+10632,Leisure Resident,Marina,40,Shaded Walking,2,0,,4
+10633,Daily Commuter,Jumeirah,38,Shaded Walking,1,0,,4
+10634,Daily Commuter,Deira,35,Shaded Walking,2,1,,1
+10635,Tourist,Downtown Dubai,37,Shaded Walking,1,0,,5
+10636,Daily Commuter,Deira,44,Indoor Shortcut,2,0,45.0,4
+10637,Daily Commuter,Deira,42,Shaded Walking,1,0,,5
+10638,Tourist,Downtown Dubai,44,Metro-Taxi Combo,3,0,,4
+10639,Tourist,Deira,44,Metro-Taxi Combo,1,0,,4
+10640,Daily Commuter,Marina,46,Shaded Walking,2,0,,5
+10641,Tourist,Downtown Dubai,44,Metro-Taxi Combo,1,0,,4
+10642,Tourist,Deira,42,Indoor Shortcut,0,1,,5
+10643,Tourist,DIFC,39,Shaded Walking,1,0,,5
+10644,Tourist,Deira,39,Shaded Walking,2,0,45.0,4
+10645,Tourist,Marina,41,Indoor Shortcut,0,0,,5
+10646,Leisure Resident,Jumeirah,47,Metro-Taxi Combo,2,0,,4
+10647,Daily Commuter,Deira,42,Indoor Shortcut,2,0,,5
+10648,Daily Commuter,Jumeirah,44,Indoor Shortcut,0,0,,5
+10649,Daily Commuter,DIFC,40,Metro-Taxi Combo,1,0,,4
+10650,Daily Commuter,Deira,47,Indoor Shortcut,2,0,,5
+10651,Tourist,Downtown Dubai,38,Metro-Taxi Combo,0,0,,4
+10652,Daily Commuter,Jumeirah,43,Metro-Taxi Combo,4,1,75.0,5
+10653,Daily Commuter,DIFC,46,Indoor Shortcut,4,0,,5
+10654,Daily Commuter,Downtown Dubai,45,Metro-Taxi Combo,1,0,,5
+10655,Daily Commuter,Downtown Dubai,42,Indoor Shortcut,2,0,,5
+10656,Tourist,Downtown Dubai,41,Metro-Taxi Combo,3,1,,4
+10657,Tourist,Downtown Dubai,42,Shaded Walking,4,0,,-1
+10658,Daily Commuter,Deira,37,Metro-Taxi Combo,3,0,,4
+10659,Daily Commuter,Deira,33,Metro-Taxi Combo,1,0,,5
+10660,Daily Commuter,Deira,42,Indoor Shortcut,3,1,,4
+10661,Daily Commuter,DIFC,37,Metro-Taxi Combo,1,1,,-1
+10662,Leisure Resident,DIFC,45,Shaded Walking,1,0,,5
+10663,Daily Commuter,DIFC,37,Shaded Walking,1,0,,5
+10664,Tourist,Marina,48,Metro-Taxi Combo,3,0,,3
+10665,Tourist,DIFC,41,Metro-Taxi Combo,0,0,,5
+10666,Tourist,Deira,32,Shaded Walking,3,0,,5
+10667,Tourist,Deira,34,Indoor Shortcut,0,0,,5
+10668,Tourist,Marina,39,Shaded Walking,2,0,,4
+10669,Tourist,Marina,39,Shaded Walking,0,0,,4
+10670,Tourist,DIFC,46,Metro-Taxi Combo,0,0,,3
+10671,Tourist,Jumeirah,38,Metro-Taxi Combo,0,0,,4
+10672,Leisure Resident,Marina,42,Shaded Walking,1,1,,4
+10673,Tourist,Downtown Dubai,38,Indoor Shortcut,1,0,,4
+10674,Daily Commuter,Deira,35,Shaded Walking,3,1,,4
+10675,Daily Commuter,Downtown Dubai,43,Shaded Walking,1,1,,4
+10676,Leisure Resident,Deira,37,Indoor Shortcut,0,0,,3
+10677,Tourist,Deira,45,Shaded Walking,3,0,,5
+10678,Daily Commuter,Marina,43,Shaded Walking,2,1,,5
+10679,Leisure Resident,Marina,42,Metro-Taxi Combo,1,0,,4
+10680,Leisure Resident,Downtown Dubai,36,Indoor Shortcut,1,0,,5
+10681,Leisure Resident,Deira,45,Metro-Taxi Combo,3,0,,5
+10682,Tourist,Downtown Dubai,47,Metro-Taxi Combo,3,0,,5
+10683,Tourist,Jumeirah,44,Indoor Shortcut,1,0,,4
+10684,Daily Commuter,Downtown Dubai,35,Indoor Shortcut,2,0,,4
+10685,Leisure Resident,DIFC,42,Shaded Walking,3,0,,5
+10686,Daily Commuter,Downtown Dubai,48,Metro-Taxi Combo,2,0,,4
+10687,Daily Commuter,DIFC,38,Indoor Shortcut,1,0,,2
+10688,Tourist,DIFC,45,Metro-Taxi Combo,2,0,,3
+10689,Daily Commuter,DIFC,42,Metro-Taxi Combo,1,0,45.0,2
+10690,Tourist,Jumeirah,40,Indoor Shortcut,2,0,,-1
+10691,Tourist,Downtown Dubai,44,Shaded Walking,4,0,,4
+10692,Daily Commuter,Downtown Dubai,42,Metro-Taxi Combo,1,1,,5
+10693,Daily Commuter,Jumeirah,46,Indoor Shortcut,0,0,,-1
+10694,Tourist,Deira,32,Shaded Walking,1,0,,5
+10695,Tourist,Marina,35,Metro-Taxi Combo,4,0,,2
+10696,Daily Commuter,Downtown Dubai,45,Indoor Shortcut,2,0,,3
+10697,Tourist,Marina,45,Metro-Taxi Combo,0,0,45.0,4
+10698,Daily Commuter,Jumeirah,34,Indoor Shortcut,1,0,,4
+10699,Tourist,Deira,48,Indoor Shortcut,0,0,45.0,5
+10700,Daily Commuter,Deira,34,Metro-Taxi Combo,3,0,,4
+10701,Daily Commuter,Deira,47,Metro-Taxi Combo,1,0,45.0,5
+10702,Tourist,Jumeirah,45,Indoor Shortcut,2,0,,5
+10703,Tourist,DIFC,44,Shaded Walking,2,0,,5
+10704,Tourist,DIFC,46,Metro-Taxi Combo,3,0,,5
+10705,Tourist,Marina,45,Indoor Shortcut,2,0,,3
+10706,Leisure Resident,DIFC,37,Indoor Shortcut,1,0,,4
+10707,Tourist,DIFC,41,Shaded Walking,4,0,,3
+10708,Leisure Resident,Deira,46,Shaded Walking,2,0,,3
+10709,Tourist,Deira,37,Shaded Walking,2,0,,5
+10710,Daily Commuter,Marina,41,Metro-Taxi Combo,1,0,,4
+10711,Daily Commuter,Downtown Dubai,38,Indoor Shortcut,4,0,,4
+10712,Daily Commuter,Marina,48,Indoor Shortcut,1,0,,-1
+10713,Daily Commuter,Marina,48,Indoor Shortcut,3,0,,4
+10714,Daily Commuter,Jumeirah,40,Shaded Walking,2,0,,5
+10715,Tourist,Jumeirah,41,Indoor Shortcut,1,0,,3
+10716,Leisure Resident,Marina,41,Metro-Taxi Combo,1,0,,4
+10717,Leisure Resident,Marina,38,Shaded Walking,0,0,,5
+10718,Leisure Resident,Marina,47,Shaded Walking,1,1,,5
+10719,Tourist,DIFC,37,Shaded Walking,1,1,45.0,4
+10720,Daily Commuter,Jumeirah,32,Shaded Walking,1,0,,3
+10721,Leisure Resident,Marina,32,Metro-Taxi Combo,3,0,,4
+10722,Tourist,Deira,43,Indoor Shortcut,2,0,,3
+10723,Tourist,Deira,33,Metro-Taxi Combo,3,0,,4
+10724,Daily Commuter,DIFC,35,Indoor Shortcut,0,0,,5
+10725,Daily Commuter,DIFC,48,Metro-Taxi Combo,1,0,,3
+10726,Leisure Resident,Downtown Dubai,35,Shaded Walking,1,0,,4
+10727,Tourist,Downtown Dubai,42,Shaded Walking,5,0,,5
+10728,Daily Commuter,Downtown Dubai,35,Metro-Taxi Combo,5,0,,4
+10729,Tourist,DIFC,32,Metro-Taxi Combo,3,0,,1
+10730,Tourist,DIFC,38,Indoor Shortcut,3,0,,-1
+10731,Tourist,DIFC,40,Metro-Taxi Combo,2,0,,4
+10732,Leisure Resident,Deira,34,Metro-Taxi Combo,2,0,45.0,5
+10733,Daily Commuter,DIFC,39,Indoor Shortcut,2,0,,4
+10734,Daily Commuter,Deira,35,Indoor Shortcut,0,0,,4
+10735,Daily Commuter,Downtown Dubai,42,Indoor Shortcut,2,0,45.0,4
+10736,Leisure Resident,Downtown Dubai,45,Metro-Taxi Combo,1,0,,4
+10737,Daily Commuter,Downtown Dubai,47,Indoor Shortcut,2,1,45.0,2
+10738,Leisure Resident,Marina,34,Shaded Walking,2,1,,4
+10739,Daily Commuter,Marina,46,Shaded Walking,4,0,,5
+10740,Daily Commuter,Jumeirah,35,Shaded Walking,4,0,,5
+10741,Daily Commuter,Jumeirah,36,Metro-Taxi Combo,2,0,,3
+10742,Tourist,Jumeirah,48,Shaded Walking,2,0,,5
+10743,Daily Commuter,Marina,38,Metro-Taxi Combo,4,1,,5
+10744,Daily Commuter,Marina,47,Metro-Taxi Combo,2,0,,5
+10745,Tourist,Jumeirah,45,Shaded Walking,4,1,,3
+10746,Leisure Resident,Jumeirah,47,Indoor Shortcut,0,0,,5
+10747,Daily Commuter,DIFC,38,Metro-Taxi Combo,0,0,,4
+10748,Daily Commuter,Jumeirah,40,Shaded Walking,2,0,,4
+10749,Leisure Resident,DIFC,35,Metro-Taxi Combo,2,0,45.0,5
+10750,Daily Commuter,Deira,42,Indoor Shortcut,3,0,,5
+10751,Tourist,Marina,33,Indoor Shortcut,3,0,,5
+10752,Leisure Resident,Jumeirah,43,Shaded Walking,4,0,,5
+10753,Daily Commuter,Marina,43,Metro-Taxi Combo,1,0,,1
+10754,Tourist,Marina,35,Metro-Taxi Combo,2,0,,5
+10755,Tourist,Marina,38,Metro-Taxi Combo,1,0,,3
+10756,Daily Commuter,Deira,32,Metro-Taxi Combo,1,0,,4
+10757,Daily Commuter,Downtown Dubai,44,Shaded Walking,5,0,,5
+10758,Daily Commuter,Jumeirah,37,Indoor Shortcut,1,0,,4
+10759,Leisure Resident,Downtown Dubai,37,Shaded Walking,3,1,45.0,5
+10760,Daily Commuter,Downtown Dubai,43,Metro-Taxi Combo,1,0,45.0,4
+10761,Tourist,Downtown Dubai,39,Metro-Taxi Combo,0,0,,5
+10762,Tourist,Marina,36,Indoor Shortcut,1,0,,4
+10763,Tourist,DIFC,36,Metro-Taxi Combo,0,0,,4
+10764,Daily Commuter,Marina,41,Shaded Walking,1,0,,5
+10765,Tourist,Marina,32,Shaded Walking,3,1,,3
+10766,Daily Commuter,Downtown Dubai,41,Indoor Shortcut,2,1,,5
+10767,Daily Commuter,Marina,36,Shaded Walking,1,0,,5
+10768,Leisure Resident,Downtown Dubai,43,Shaded Walking,3,0,,5
+10769,Tourist,DIFC,38,Shaded Walking,3,0,,5
+10770,Leisure Resident,Jumeirah,40,Shaded Walking,0,0,,4
+10771,Tourist,Downtown Dubai,43,Metro-Taxi Combo,2,0,,5
+10772,Leisure Resident,DIFC,32,Shaded Walking,1,0,,3
+10773,Tourist,Jumeirah,42,Indoor Shortcut,2,0,,4
+10774,Daily Commuter,Deira,46,Indoor Shortcut,0,0,,3
+10775,Daily Commuter,Downtown Dubai,33,Shaded Walking,3,0,,5
+10776,Tourist,Downtown Dubai,38,Indoor Shortcut,2,1,,5
+10777,Tourist,Deira,43,Shaded Walking,4,0,45.0,5
+10778,Daily Commuter,Deira,34,Indoor Shortcut,1,0,45.0,5
+10779,Daily Commuter,Downtown Dubai,38,Indoor Shortcut,4,0,,5
+10780,Daily Commuter,Deira,42,Shaded Walking,1,0,,5
+10781,Daily Commuter,Marina,43,Shaded Walking,1,0,,4
+10782,Daily Commuter,Jumeirah,37,Metro-Taxi Combo,0,0,45.0,5
+10783,Tourist,Jumeirah,36,Shaded Walking,4,0,,5
+10784,Tourist,Jumeirah,32,Shaded Walking,4,1,,4
+10785,Tourist,Marina,43,Metro-Taxi Combo,2,0,,5
+10786,Leisure Resident,Deira,42,Shaded Walking,2,0,,4
+10787,Daily Commuter,DIFC,35,Shaded Walking,2,0,75.0,5
+10788,Daily Commuter,Deira,35,Metro-Taxi Combo,2,0,,5
+10789,Daily Commuter,Downtown Dubai,48,Shaded Walking,4,0,,5
+10790,Leisure Resident,Jumeirah,33,Shaded Walking,0,0,,5
+10791,Tourist,Deira,33,Metro-Taxi Combo,4,1,,5
+10792,Daily Commuter,DIFC,43,Metro-Taxi Combo,1,0,45.0,5
+10793,Daily Commuter,Downtown Dubai,37,Indoor Shortcut,1,0,,4
+10794,Daily Commuter,Marina,41,Shaded Walking,2,0,,4
+10795,Tourist,Marina,47,Indoor Shortcut,3,0,45.0,5
+10796,Leisure Resident,DIFC,45,Indoor Shortcut,2,0,,5
+10797,Leisure Resident,Downtown Dubai,38,Metro-Taxi Combo,7,0,,5
+10798,Daily Commuter,Jumeirah,48,Shaded Walking,5,0,,3
+10799,Daily Commuter,Deira,40,Shaded Walking,2,0,,5
+10800,Leisure Resident,Downtown Dubai,44,Metro-Taxi Combo,3,0,,5
+10801,Daily Commuter,Marina,36,Indoor Shortcut,2,0,,4
+10802,Tourist,DIFC,36,Metro-Taxi Combo,2,0,,5
+10803,Daily Commuter,DIFC,41,Shaded Walking,2,0,,5
+10804,Daily Commuter,Deira,41,Metro-Taxi Combo,2,1,45.0,5
+10805,Daily Commuter,DIFC,38,Shaded Walking,2,0,,-1
+10806,Daily Commuter,DIFC,46,Indoor Shortcut,1,0,,4
+10807,Leisure Resident,Downtown Dubai,38,Shaded Walking,0,0,,5
+10808,Leisure Resident,Jumeirah,46,Indoor Shortcut,5,0,,5
+10809,Daily Commuter,Deira,34,Indoor Shortcut,5,0,,4
+10810,Tourist,Downtown Dubai,41,Shaded Walking,1,0,45.0,5
+10811,Leisure Resident,Jumeirah,46,Shaded Walking,2,1,,5
+10812,Leisure Resident,Downtown Dubai,34,Indoor Shortcut,0,0,,4
+10813,Tourist,Downtown Dubai,37,Metro-Taxi Combo,1,0,,3
+10814,Leisure Resident,DIFC,43,Shaded Walking,2,0,75.0,4
+10815,Leisure Resident,Jumeirah,46,Indoor Shortcut,0,0,45.0,5
+10816,Daily Commuter,Deira,37,Indoor Shortcut,2,0,,5
+10817,Daily Commuter,Deira,44,Metro-Taxi Combo,4,0,,4
+10818,Daily Commuter,Jumeirah,34,Shaded Walking,3,0,,4
+10819,Tourist,DIFC,39,Indoor Shortcut,3,0,,4
+10820,Tourist,Marina,39,Metro-Taxi Combo,5,1,,5
+10821,Leisure Resident,Downtown Dubai,46,Indoor Shortcut,3,0,,5
+10822,Tourist,DIFC,35,Shaded Walking,6,1,,5
+10823,Tourist,Jumeirah,34,Metro-Taxi Combo,1,0,,5
+10824,Daily Commuter,Downtown Dubai,44,Indoor Shortcut,4,0,,5
+10825,Daily Commuter,Deira,39,Metro-Taxi Combo,0,0,,3
+10826,Leisure Resident,Marina,47,Shaded Walking,2,0,,5
+10827,Tourist,Deira,44,Metro-Taxi Combo,4,0,,5
+10828,Tourist,Jumeirah,34,Shaded Walking,2,0,,5
+10829,Daily Commuter,Downtown Dubai,47,Indoor Shortcut,3,0,,5
+10830,Daily Commuter,Jumeirah,40,Shaded Walking,0,0,,5
+10831,Tourist,Downtown Dubai,45,Indoor Shortcut,0,0,,5
+10832,Daily Commuter,DIFC,44,Indoor Shortcut,2,1,,5
+10833,Tourist,Marina,38,Shaded Walking,5,1,,-1
+10834,Tourist,DIFC,46,Indoor Shortcut,1,0,,5
+10835,Daily Commuter,DIFC,38,Metro-Taxi Combo,1,0,,3
+10836,Daily Commuter,Jumeirah,37,Indoor Shortcut,2,0,,4
+10837,Leisure Resident,Marina,33,Shaded Walking,2,0,,5
+10838,Daily Commuter,Downtown Dubai,40,Metro-Taxi Combo,1,0,,2
+10839,Daily Commuter,Downtown Dubai,48,Metro-Taxi Combo,0,0,,3
+10840,Daily Commuter,Deira,36,Indoor Shortcut,3,0,,3
+10841,Tourist,Downtown Dubai,43,Indoor Shortcut,1,0,,5
+10842,Daily Commuter,Jumeirah,32,Shaded Walking,1,0,,5
+10843,Tourist,DIFC,41,Metro-Taxi Combo,1,1,,4
+10844,Leisure Resident,DIFC,42,Shaded Walking,2,0,,3
+10845,Tourist,DIFC,47,Indoor Shortcut,2,0,,5
+10846,Daily Commuter,Marina,45,Metro-Taxi Combo,2,0,75.0,4
+10847,Tourist,Downtown Dubai,39,Shaded Walking,0,1,,4
+10848,Leisure Resident,Jumeirah,48,Shaded Walking,3,0,,5
+10849,Daily Commuter,Marina,43,Shaded Walking,4,0,,5
+10850,Daily Commuter,Deira,48,Shaded Walking,1,1,75.0,4
+10851,Tourist,Jumeirah,45,Shaded Walking,5,0,45.0,5
+10852,Daily Commuter,Jumeirah,47,Metro-Taxi Combo,2,0,,4
+10853,Tourist,Jumeirah,45,Shaded Walking,1,0,,5
+10854,Leisure Resident,DIFC,40,Metro-Taxi Combo,3,0,,4
+10855,Tourist,Jumeirah,35,Shaded Walking,2,0,,4
+10856,Tourist,Downtown Dubai,42,Indoor Shortcut,1,0,75.0,5
+10857,Tourist,Jumeirah,37,Indoor Shortcut,2,0,,5
+10858,Daily Commuter,DIFC,46,Shaded Walking,1,0,75.0,4
+10859,Daily Commuter,Jumeirah,36,Indoor Shortcut,4,0,,3
+10860,Tourist,Deira,42,Metro-Taxi Combo,3,1,,5
+10861,Daily Commuter,Deira,44,Shaded Walking,3,0,,5
+10862,Daily Commuter,DIFC,42,Metro-Taxi Combo,5,0,,4
+10863,Daily Commuter,Downtown Dubai,45,Shaded Walking,1,0,,5
+10864,Daily Commuter,Downtown Dubai,46,Indoor Shortcut,3,0,,3
+10865,Daily Commuter,Marina,40,Metro-Taxi Combo,3,0,,5
+10866,Daily Commuter,DIFC,39,Indoor Shortcut,5,1,,1
+10867,Tourist,Jumeirah,32,Indoor Shortcut,2,1,,4
+10868,Tourist,DIFC,35,Shaded Walking,0,0,,3
+10869,Leisure Resident,Marina,45,Metro-Taxi Combo,2,0,,4
+10870,Leisure Resident,DIFC,33,Indoor Shortcut,4,0,,4
+10871,Daily Commuter,DIFC,47,Shaded Walking,1,0,,4
+10872,Tourist,Marina,34,Shaded Walking,4,0,,2
+10873,Daily Commuter,Downtown Dubai,39,Shaded Walking,2,0,,4
+10874,Daily Commuter,Jumeirah,37,Indoor Shortcut,1,0,,5
+10875,Tourist,Marina,47,Shaded Walking,2,1,,4
+10876,Tourist,Deira,47,Metro-Taxi Combo,2,0,,5
+10877,Daily Commuter,Downtown Dubai,38,Metro-Taxi Combo,2,0,,4
+10878,Daily Commuter,Deira,44,Indoor Shortcut,3,1,,4
+10879,Tourist,Downtown Dubai,44,Metro-Taxi Combo,4,0,,5
+10880,Tourist,Jumeirah,36,Shaded Walking,2,1,,5
+10881,Tourist,Jumeirah,46,Indoor Shortcut,0,1,,3
+10882,Daily Commuter,DIFC,33,Shaded Walking,2,0,,2
+10883,Tourist,Deira,41,Indoor Shortcut,2,0,,5
+10884,Tourist,Downtown Dubai,44,Indoor Shortcut,1,0,,5
+10885,Daily Commuter,Jumeirah,46,Shaded Walking,1,0,,-1
+10886,Tourist,Marina,43,Metro-Taxi Combo,1,0,,4
+10887,Daily Commuter,Jumeirah,46,Metro-Taxi Combo,1,0,,4
+10888,Tourist,Marina,44,Indoor Shortcut,2,0,,5
+10889,Tourist,Downtown Dubai,46,Shaded Walking,1,1,,5
+10890,Tourist,Jumeirah,42,Shaded Walking,2,0,,5
+10891,Daily Commuter,Jumeirah,34,Indoor Shortcut,4,0,75.0,5
+10892,Leisure Resident,Downtown Dubai,38,Metro-Taxi Combo,4,0,,5
+10893,Leisure Resident,Jumeirah,45,Shaded Walking,2,1,,4
+10894,Daily Commuter,Marina,45,Metro-Taxi Combo,2,1,,4
+10895,Daily Commuter,Jumeirah,44,Metro-Taxi Combo,2,0,,5
+10896,Tourist,Deira,43,Indoor Shortcut,0,0,,4
+10897,Tourist,DIFC,40,Indoor Shortcut,1,0,45.0,4
+10898,Leisure Resident,Marina,32,Metro-Taxi Combo,0,0,,1
+10899,Tourist,Deira,42,Shaded Walking,1,0,45.0,4
+10900,Tourist,Downtown Dubai,43,Shaded Walking,1,0,,4
+10901,Tourist,Marina,32,Indoor Shortcut,3,0,,5
+10902,Tourist,DIFC,48,Metro-Taxi Combo,2,0,,4
+10903,Tourist,DIFC,36,Shaded Walking,2,0,,5
+10904,Daily Commuter,Downtown Dubai,34,Shaded Walking,3,0,,4
+10905,Daily Commuter,Downtown Dubai,33,Indoor Shortcut,1,0,,3
+10906,Leisure Resident,Marina,34,Metro-Taxi Combo,6,0,,5
+10907,Leisure Resident,Jumeirah,39,Shaded Walking,2,0,,5
+10908,Tourist,Downtown Dubai,47,Indoor Shortcut,4,0,,3
+10909,Tourist,Jumeirah,37,Shaded Walking,2,0,,5
+10910,Daily Commuter,Deira,44,Shaded Walking,0,0,,4
+10911,Daily Commuter,DIFC,47,Shaded Walking,3,0,75.0,-1
+10912,Tourist,Jumeirah,47,Indoor Shortcut,1,0,45.0,4
+10913,Daily Commuter,DIFC,34,Metro-Taxi Combo,1,0,,4
+10914,Daily Commuter,Jumeirah,44,Indoor Shortcut,2,1,,5
+10915,Daily Commuter,Deira,45,Metro-Taxi Combo,1,0,,5
+10916,Daily Commuter,Downtown Dubai,39,Shaded Walking,3,0,,4
+10917,Tourist,Deira,43,Metro-Taxi Combo,2,0,,5
+10918,Leisure Resident,Downtown Dubai,39,Shaded Walking,4,0,,3
+10919,Daily Commuter,Downtown Dubai,40,Shaded Walking,0,0,,5
+10920,Tourist,DIFC,32,Indoor Shortcut,2,0,,3
+10921,Leisure Resident,Deira,37,Shaded Walking,2,1,,5
+10922,Daily Commuter,Jumeirah,42,Indoor Shortcut,2,0,,4
+10923,Leisure Resident,Deira,42,Metro-Taxi Combo,3,0,75.0,4
+10924,Daily Commuter,DIFC,44,Metro-Taxi Combo,3,0,,5
+10925,Daily Commuter,Downtown Dubai,42,Shaded Walking,0,0,,-1
+10926,Tourist,DIFC,46,Indoor Shortcut,2,0,,5
+10927,Tourist,Marina,32,Shaded Walking,2,0,,3
+10928,Daily Commuter,Marina,38,Indoor Shortcut,3,0,,5
+10929,Daily Commuter,Jumeirah,44,Indoor Shortcut,3,0,45.0,5
+10930,Tourist,DIFC,43,Indoor Shortcut,1,0,,5
+10931,Tourist,Jumeirah,46,Metro-Taxi Combo,1,0,45.0,5
+10932,Leisure Resident,Jumeirah,39,Indoor Shortcut,2,0,,1
+10933,Leisure Resident,Marina,41,Metro-Taxi Combo,1,1,,5
+10934,Daily Commuter,Jumeirah,38,Indoor Shortcut,2,1,,5
+10935,Tourist,Marina,47,Metro-Taxi Combo,5,0,,3
+10936,Tourist,Downtown Dubai,37,Metro-Taxi Combo,4,0,,5
+10937,Tourist,DIFC,40,Metro-Taxi Combo,3,0,,5
+10938,Leisure Resident,Jumeirah,44,Shaded Walking,4,0,,5
+10939,Tourist,Marina,39,Indoor Shortcut,0,0,,3
+10940,Daily Commuter,Deira,47,Shaded Walking,0,0,,5
+10941,Tourist,Jumeirah,44,Indoor Shortcut,0,0,,4
+10942,Daily Commuter,Downtown Dubai,44,Indoor Shortcut,1,0,,5
+10943,Daily Commuter,Downtown Dubai,48,Shaded Walking,2,0,45.0,5
+10944,Leisure Resident,Deira,36,Metro-Taxi Combo,1,0,45.0,5
+10945,Tourist,Marina,48,Indoor Shortcut,1,0,,3
+10946,Tourist,Jumeirah,40,Metro-Taxi Combo,0,0,,5
+10947,Tourist,Marina,33,Shaded Walking,3,0,,5
+10948,Leisure Resident,Downtown Dubai,40,Metro-Taxi Combo,3,0,,4
+10949,Leisure Resident,Marina,37,Indoor Shortcut,2,0,75.0,5
+10950,Daily Commuter,Downtown Dubai,42,Indoor Shortcut,2,0,,5
+10951,Daily Commuter,Marina,37,Indoor Shortcut,1,0,,5
+10952,Daily Commuter,Deira,37,Shaded Walking,0,0,,4
+10953,Tourist,DIFC,44,Indoor Shortcut,1,1,,4
+10954,Leisure Resident,Deira,42,Shaded Walking,0,0,,5
+10955,Daily Commuter,Deira,45,Metro-Taxi Combo,4,0,45.0,4
+10956,Daily Commuter,DIFC,33,Indoor Shortcut,2,0,,3
+10957,Daily Commuter,DIFC,39,Indoor Shortcut,1,1,,5
+10958,Tourist,Jumeirah,34,Indoor Shortcut,5,0,,3
+10959,Tourist,Jumeirah,34,Metro-Taxi Combo,1,0,,5
+10960,Daily Commuter,Deira,32,Indoor Shortcut,2,0,,5
+10961,Tourist,Deira,48,Shaded Walking,3,1,,5
+10962,Daily Commuter,Downtown Dubai,44,Metro-Taxi Combo,1,0,,5
+10963,Tourist,Downtown Dubai,34,Metro-Taxi Combo,1,0,75.0,3
+10964,Daily Commuter,Jumeirah,32,Metro-Taxi Combo,2,0,,4
+10965,Tourist,Jumeirah,35,Metro-Taxi Combo,1,0,45.0,5
+10966,Daily Commuter,Downtown Dubai,44,Metro-Taxi Combo,1,0,,4
+10967,Daily Commuter,Downtown Dubai,48,Shaded Walking,2,1,,5
+10968,Tourist,Marina,42,Metro-Taxi Combo,0,0,,5
+10969,Daily Commuter,Marina,33,Indoor Shortcut,3,0,45.0,1
+10970,Daily Commuter,Downtown Dubai,47,Metro-Taxi Combo,1,0,,5
+10971,Daily Commuter,Marina,33,Metro-Taxi Combo,1,0,,3
+10972,Leisure Resident,DIFC,47,Metro-Taxi Combo,1,0,45.0,3
+10973,Daily Commuter,Jumeirah,40,Metro-Taxi Combo,3,0,,5
+10974,Tourist,Jumeirah,32,Metro-Taxi Combo,3,0,45.0,5
+10975,Tourist,Downtown Dubai,41,Shaded Walking,1,1,,5
+10976,Tourist,Deira,32,Shaded Walking,2,0,45.0,4
+10977,Daily Commuter,Downtown Dubai,33,Metro-Taxi Combo,2,0,,4
+10978,Tourist,Marina,47,Shaded Walking,2,0,45.0,4
+10979,Daily Commuter,Deira,43,Indoor Shortcut,1,0,,4
+10980,Daily Commuter,Marina,39,Metro-Taxi Combo,2,0,,4
+10981,Tourist,DIFC,33,Indoor Shortcut,2,1,,5
+10982,Daily Commuter,Marina,44,Indoor Shortcut,0,0,,5
+10983,Tourist,DIFC,37,Metro-Taxi Combo,3,0,45.0,4
+10984,Tourist,DIFC,37,Indoor Shortcut,1,0,,4
+10985,Daily Commuter,Marina,40,Indoor Shortcut,4,0,45.0,5
+10986,Daily Commuter,Marina,47,Indoor Shortcut,3,0,,5
+10987,Daily Commuter,DIFC,42,Metro-Taxi Combo,4,0,45.0,5
+10988,Daily Commuter,Deira,38,Metro-Taxi Combo,3,0,,4
+10989,Tourist,DIFC,41,Indoor Shortcut,0,0,,3
+10990,Leisure Resident,Jumeirah,41,Metro-Taxi Combo,2,0,,5
+10991,Daily Commuter,DIFC,40,Metro-Taxi Combo,2,0,,5
+10992,Daily Commuter,Deira,46,Indoor Shortcut,1,0,,4
+10993,Tourist,Jumeirah,35,Metro-Taxi Combo,1,0,,5
+10994,Daily Commuter,Downtown Dubai,39,Shaded Walking,1,0,,4
+10995,Daily Commuter,Downtown Dubai,40,Metro-Taxi Combo,4,0,,4
+10996,Tourist,Deira,44,Shaded Walking,1,0,,5
+10997,Leisure Resident,DIFC,40,Indoor Shortcut,2,0,,4
+10998,Tourist,Marina,35,Metro-Taxi Combo,0,0,,5
+10999,Leisure Resident,Deira,48,Indoor Shortcut,1,0,,4
+11000,Daily Commuter,Jumeirah,47,Indoor Shortcut,4,0,,4
+11001,Tourist,Jumeirah,46,Indoor Shortcut,0,0,,4
+11002,Daily Commuter,Downtown Dubai,34,Indoor Shortcut,2,0,,4
+11003,Leisure Resident,Jumeirah,36,Indoor Shortcut,0,1,,2
+11004,Daily Commuter,Deira,36,Metro-Taxi Combo,3,0,,5
+11005,Leisure Resident,Jumeirah,46,Shaded Walking,2,0,,5
+11006,Daily Commuter,Deira,46,Metro-Taxi Combo,2,1,,4
+11007,Daily Commuter,Marina,33,Metro-Taxi Combo,2,0,,2
+11008,Leisure Resident,Downtown Dubai,44,Metro-Taxi Combo,1,0,,-1
+11009,Tourist,Jumeirah,35,Metro-Taxi Combo,2,0,45.0,4
+11010,Daily Commuter,Deira,41,Shaded Walking,2,0,45.0,3
+11011,Tourist,DIFC,44,Metro-Taxi Combo,3,0,45.0,4
+11012,Leisure Resident,Downtown Dubai,41,Indoor Shortcut,3,1,,5
+11013,Leisure Resident,Marina,40,Metro-Taxi Combo,1,0,,4
+11014,Tourist,Deira,39,Metro-Taxi Combo,3,0,,5
+11015,Daily Commuter,Marina,34,Shaded Walking,3,0,,4
+11016,Leisure Resident,Marina,47,Shaded Walking,4,0,,3
+11017,Tourist,Jumeirah,45,Indoor Shortcut,0,0,,4
+11018,Daily Commuter,Jumeirah,40,Metro-Taxi Combo,1,0,,5
+11019,Leisure Resident,Deira,42,Metro-Taxi Combo,0,0,,5
+11020,Tourist,DIFC,34,Metro-Taxi Combo,1,0,75.0,3
+11021,Daily Commuter,Deira,36,Indoor Shortcut,0,0,45.0,4
+11022,Tourist,DIFC,41,Shaded Walking,2,1,75.0,5
+11023,Leisure Resident,Marina,44,Indoor Shortcut,5,0,,5
+11024,Leisure Resident,Downtown Dubai,35,Metro-Taxi Combo,0,1,,4
+11025,Leisure Resident,Deira,44,Shaded Walking,6,0,45.0,5
+11026,Daily Commuter,Deira,43,Shaded Walking,0,0,75.0,4
+11027,Leisure Resident,DIFC,36,Indoor Shortcut,4,0,,4
+11028,Leisure Resident,Marina,41,Shaded Walking,2,1,,2
+11029,Tourist,Marina,40,Shaded Walking,3,0,,5
+11030,Leisure Resident,DIFC,38,Metro-Taxi Combo,1,0,,4
+11031,Tourist,Marina,33,Metro-Taxi Combo,4,0,,5
+11032,Daily Commuter,Jumeirah,38,Shaded Walking,2,0,,5
+11033,Tourist,Downtown Dubai,39,Shaded Walking,1,0,45.0,5
+11034,Tourist,Deira,38,Indoor Shortcut,0,0,,4
+11035,Tourist,Downtown Dubai,45,Indoor Shortcut,3,0,,4
+11036,Daily Commuter,Deira,36,Shaded Walking,4,0,,5
+11037,Tourist,Jumeirah,43,Metro-Taxi Combo,2,0,,5
+11038,Daily Commuter,Marina,48,Shaded Walking,4,0,,5
+11039,Tourist,DIFC,44,Shaded Walking,3,0,,1
+11040,Tourist,Jumeirah,33,Metro-Taxi Combo,2,0,45.0,4
+11041,Daily Commuter,Downtown Dubai,44,Metro-Taxi Combo,5,0,,5
+11042,Daily Commuter,DIFC,38,Indoor Shortcut,1,0,45.0,3
+11043,Tourist,Marina,41,Indoor Shortcut,2,1,,5
+11044,Daily Commuter,Jumeirah,37,Indoor Shortcut,2,0,,4
+11045,Leisure Resident,DIFC,34,Indoor Shortcut,1,0,,1
+11046,Daily Commuter,Jumeirah,34,Metro-Taxi Combo,0,0,,4
+11047,Tourist,Jumeirah,42,Shaded Walking,3,0,,4
+11048,Tourist,Marina,36,Indoor Shortcut,3,0,,3
+11049,Leisure Resident,Deira,46,Indoor Shortcut,3,1,,5
+11050,Tourist,DIFC,47,Metro-Taxi Combo,2,0,,4
+11051,Leisure Resident,Marina,40,Metro-Taxi Combo,3,0,,4
+11052,Daily Commuter,Jumeirah,35,Shaded Walking,3,0,,5
+11053,Leisure Resident,Marina,46,Shaded Walking,0,0,,4
+11054,Daily Commuter,Deira,43,Metro-Taxi Combo,1,0,,4
+11055,Leisure Resident,DIFC,34,Indoor Shortcut,4,0,,5
+11056,Daily Commuter,Deira,45,Indoor Shortcut,1,0,,5
+11057,Daily Commuter,Downtown Dubai,48,Indoor Shortcut,2,0,,2
+11058,Daily Commuter,DIFC,37,Shaded Walking,3,0,,4
+11059,Daily Commuter,Deira,35,Indoor Shortcut,1,0,,5
+11060,Daily Commuter,Jumeirah,38,Indoor Shortcut,1,0,75.0,4
+11061,Leisure Resident,DIFC,48,Metro-Taxi Combo,4,0,75.0,5
+11062,Leisure Resident,DIFC,47,Indoor Shortcut,5,0,,5
+11063,Daily Commuter,Marina,46,Metro-Taxi Combo,1,1,,5
+11064,Daily Commuter,Jumeirah,39,Indoor Shortcut,1,0,,4
+11065,Daily Commuter,Downtown Dubai,39,Shaded Walking,5,0,,4
+11066,Daily Commuter,Deira,47,Indoor Shortcut,0,0,,5
+11067,Tourist,Marina,41,Indoor Shortcut,2,1,75.0,4
+11068,Tourist,Deira,48,Metro-Taxi Combo,1,0,75.0,4
+11069,Daily Commuter,Downtown Dubai,44,Metro-Taxi Combo,2,0,,5
+11070,Tourist,Downtown Dubai,44,Metro-Taxi Combo,2,0,,4
+11071,Tourist,DIFC,38,Indoor Shortcut,1,1,,4
+11072,Tourist,Downtown Dubai,41,Indoor Shortcut,3,0,75.0,5
+11073,Tourist,Deira,33,Shaded Walking,3,1,45.0,4
+11074,Tourist,Jumeirah,35,Indoor Shortcut,3,0,,3
+11075,Leisure Resident,Jumeirah,37,Shaded Walking,1,0,,4
+11076,Daily Commuter,DIFC,37,Metro-Taxi Combo,0,0,,5
+11077,Daily Commuter,Deira,48,Metro-Taxi Combo,2,0,,3
+11078,Daily Commuter,Deira,45,Metro-Taxi Combo,1,0,,4
+11079,Tourist,Downtown Dubai,42,Shaded Walking,4,0,,5
+11080,Leisure Resident,Deira,33,Indoor Shortcut,4,0,45.0,5
+11081,Daily Commuter,Marina,34,Metro-Taxi Combo,1,1,,4
+11082,Tourist,Downtown Dubai,42,Indoor Shortcut,0,0,45.0,5
+11083,Daily Commuter,Marina,37,Indoor Shortcut,2,0,,4
+11084,Leisure Resident,DIFC,45,Metro-Taxi Combo,2,0,,5
+11085,Leisure Resident,Jumeirah,47,Shaded Walking,4,0,,4
+11086,Daily Commuter,DIFC,38,Indoor Shortcut,1,0,45.0,3
+11087,Daily Commuter,Jumeirah,39,Metro-Taxi Combo,1,0,,5
+11088,Tourist,DIFC,47,Indoor Shortcut,2,0,,4
+11089,Leisure Resident,Deira,38,Indoor Shortcut,6,1,,4
+11090,Tourist,Marina,40,Indoor Shortcut,1,1,,4
+11091,Leisure Resident,Jumeirah,44,Indoor Shortcut,0,0,45.0,5
+11092,Daily Commuter,Downtown Dubai,32,Indoor Shortcut,1,0,,4
+11093,Daily Commuter,Marina,39,Shaded Walking,1,1,,4
+11094,Daily Commuter,Downtown Dubai,35,Shaded Walking,0,0,,1
+11095,Tourist,Marina,34,Metro-Taxi Combo,1,0,75.0,4
+11096,Tourist,Marina,34,Shaded Walking,1,0,,4
+11097,Tourist,DIFC,44,Shaded Walking,4,0,,4
+11098,Tourist,Jumeirah,39,Shaded Walking,6,0,,3
+11099,Daily Commuter,Jumeirah,38,Indoor Shortcut,1,0,,4
+11100,Daily Commuter,Marina,32,Indoor Shortcut,1,0,,5
+11101,Tourist,Deira,47,Metro-Taxi Combo,1,0,,5
+11102,Leisure Resident,Deira,37,Metro-Taxi Combo,2,1,,5
+11103,Leisure Resident,Downtown Dubai,38,Metro-Taxi Combo,0,0,,1
+11104,Leisure Resident,Downtown Dubai,43,Indoor Shortcut,5,0,,5
+11105,Leisure Resident,DIFC,40,Shaded Walking,2,0,,4
+11106,Tourist,Marina,42,Shaded Walking,2,0,45.0,-1
+11107,Daily Commuter,Downtown Dubai,41,Indoor Shortcut,1,1,,4
+11108,Daily Commuter,Downtown Dubai,32,Metro-Taxi Combo,1,0,,4
+11109,Daily Commuter,Marina,35,Metro-Taxi Combo,1,0,,4
+11110,Tourist,DIFC,36,Metro-Taxi Combo,6,0,75.0,4
+11111,Leisure Resident,Downtown Dubai,40,Indoor Shortcut,2,1,,5
+11112,Tourist,DIFC,48,Metro-Taxi Combo,1,1,,5
+11113,Tourist,Jumeirah,34,Metro-Taxi Combo,0,0,,-1
+11114,Daily Commuter,DIFC,47,Indoor Shortcut,4,0,,5
+11115,Daily Commuter,Deira,36,Shaded Walking,0,1,,4
+11116,Daily Commuter,Deira,47,Indoor Shortcut,4,0,,3
+11117,Tourist,DIFC,34,Indoor Shortcut,1,0,,-1
+11118,Leisure Resident,Deira,46,Indoor Shortcut,3,1,,5
+11119,Tourist,Jumeirah,34,Indoor Shortcut,2,0,,5
+11120,Tourist,Marina,45,Shaded Walking,2,0,45.0,4
+11121,Leisure Resident,Deira,47,Metro-Taxi Combo,3,0,,5
+11122,Leisure Resident,Deira,48,Indoor Shortcut,1,0,45.0,5
+11123,Leisure Resident,DIFC,45,Shaded Walking,1,0,,4
+11124,Leisure Resident,Jumeirah,46,Metro-Taxi Combo,1,0,,4
+11125,Daily Commuter,Marina,46,Metro-Taxi Combo,2,0,,4
+11126,Daily Commuter,DIFC,37,Metro-Taxi Combo,1,0,,5
+11127,Tourist,DIFC,46,Indoor Shortcut,1,0,45.0,3
+11128,Daily Commuter,Jumeirah,35,Indoor Shortcut,1,0,,3
+11129,Daily Commuter,Marina,39,Metro-Taxi Combo,3,0,,4
+11130,Tourist,Jumeirah,46,Metro-Taxi Combo,6,0,,5
+11131,Daily Commuter,Marina,34,Metro-Taxi Combo,2,0,,4
+11132,Daily Commuter,Jumeirah,46,Metro-Taxi Combo,0,0,,2
+11133,Tourist,DIFC,44,Metro-Taxi Combo,0,0,45.0,5
+11134,Tourist,DIFC,40,Metro-Taxi Combo,3,0,,5
+11135,Daily Commuter,Downtown Dubai,33,Shaded Walking,3,0,,4
+11136,Tourist,Deira,39,Metro-Taxi Combo,4,0,,5
+11137,Leisure Resident,Jumeirah,48,Indoor Shortcut,2,1,,5
+11138,Daily Commuter,Downtown Dubai,44,Indoor Shortcut,0,0,,4
+11139,Daily Commuter,Deira,32,Indoor Shortcut,2,0,45.0,4
+11140,Daily Commuter,Jumeirah,33,Metro-Taxi Combo,3,0,45.0,4
+11141,Leisure Resident,Marina,46,Indoor Shortcut,2,0,,4
+11142,Tourist,Deira,43,Shaded Walking,1,0,45.0,4
+11143,Daily Commuter,DIFC,45,Metro-Taxi Combo,2,0,,5
+11144,Daily Commuter,Downtown Dubai,33,Indoor Shortcut,2,0,,4
+11145,Tourist,Deira,38,Shaded Walking,1,1,,5
+11146,Leisure Resident,Deira,37,Shaded Walking,1,0,,4
+11147,Daily Commuter,DIFC,45,Indoor Shortcut,4,0,,5
+11148,Daily Commuter,Jumeirah,39,Shaded Walking,2,0,,4
+11149,Leisure Resident,Marina,33,Indoor Shortcut,4,1,,5
+11150,Leisure Resident,DIFC,48,Shaded Walking,1,0,,5
+11151,Daily Commuter,Marina,36,Metro-Taxi Combo,1,0,,5
+11152,Leisure Resident,Jumeirah,45,Metro-Taxi Combo,3,0,45.0,4
+11153,Daily Commuter,Deira,34,Metro-Taxi Combo,2,0,,5
+11154,Daily Commuter,Marina,36,Metro-Taxi Combo,1,0,,5
+11155,Daily Commuter,Downtown Dubai,47,Metro-Taxi Combo,1,0,,5
+11156,Daily Commuter,Downtown Dubai,48,Indoor Shortcut,1,0,,3
+11157,Tourist,DIFC,42,Metro-Taxi Combo,1,0,,5
+11158,Leisure Resident,Jumeirah,48,Metro-Taxi Combo,0,0,,3
+11159,Leisure Resident,DIFC,47,Metro-Taxi Combo,3,1,,5
+11160,Tourist,DIFC,33,Metro-Taxi Combo,4,0,45.0,5
+11161,Leisure Resident,DIFC,35,Shaded Walking,1,1,45.0,4
+11162,Tourist,Downtown Dubai,38,Metro-Taxi Combo,3,0,,3
+11163,Tourist,Downtown Dubai,33,Metro-Taxi Combo,0,0,,4
+11164,Daily Commuter,DIFC,37,Indoor Shortcut,3,0,,5
+11165,Tourist,Downtown Dubai,48,Shaded Walking,1,0,,2
+11166,Leisure Resident,Jumeirah,38,Indoor Shortcut,2,0,,4
+11167,Leisure Resident,DIFC,36,Metro-Taxi Combo,3,0,75.0,5
+11168,Daily Commuter,Downtown Dubai,36,Indoor Shortcut,2,0,,4
+11169,Tourist,Marina,47,Indoor Shortcut,1,1,75.0,4
+11170,Tourist,DIFC,40,Metro-Taxi Combo,1,0,,5
+11171,Daily Commuter,DIFC,36,Shaded Walking,2,0,,4
+11172,Leisure Resident,Jumeirah,39,Shaded Walking,1,0,,4
+11173,Daily Commuter,Deira,40,Indoor Shortcut,2,1,,1
+11174,Tourist,Deira,36,Metro-Taxi Combo,2,0,,5
+11175,Daily Commuter,Jumeirah,41,Indoor Shortcut,3,0,75.0,5
+11176,Daily Commuter,Jumeirah,33,Indoor Shortcut,5,0,,3
+11177,Daily Commuter,Jumeirah,40,Indoor Shortcut,2,0,,4
+11178,Tourist,Deira,42,Metro-Taxi Combo,2,0,,4
+11179,Daily Commuter,Jumeirah,35,Metro-Taxi Combo,1,0,,5
+11180,Daily Commuter,Downtown Dubai,33,Shaded Walking,4,0,,4
+11181,Leisure Resident,DIFC,37,Metro-Taxi Combo,2,0,,5
+11182,Tourist,DIFC,45,Indoor Shortcut,2,0,,3
+11183,Daily Commuter,Marina,32,Indoor Shortcut,0,1,,5
+11184,Leisure Resident,Marina,38,Shaded Walking,1,0,,5
+11185,Tourist,DIFC,32,Metro-Taxi Combo,1,1,,5
+11186,Leisure Resident,Downtown Dubai,32,Indoor Shortcut,1,0,45.0,4
+11187,Daily Commuter,Deira,32,Shaded Walking,2,0,,5
+11188,Tourist,Deira,35,Shaded Walking,3,1,,4
+11189,Tourist,Downtown Dubai,35,Indoor Shortcut,3,1,,2
+11190,Daily Commuter,Deira,42,Indoor Shortcut,4,0,,4
+11191,Tourist,Jumeirah,32,Metro-Taxi Combo,3,0,,5
+11192,Daily Commuter,DIFC,41,Shaded Walking,1,0,45.0,5
+11193,Tourist,DIFC,40,Indoor Shortcut,3,0,,5
+11194,Daily Commuter,Downtown Dubai,35,Shaded Walking,1,1,,5
+11195,Tourist,Deira,37,Metro-Taxi Combo,2,0,45.0,3
+11196,Leisure Resident,Marina,47,Indoor Shortcut,0,0,,5
+11197,Leisure Resident,Marina,33,Metro-Taxi Combo,1,0,45.0,5
+11198,Leisure Resident,Deira,41,Shaded Walking,1,0,,5
+11199,Daily Commuter,Marina,48,Metro-Taxi Combo,4,0,,4
+11200,Tourist,Downtown Dubai,44,Metro-Taxi Combo,1,0,,5
+11201,Daily Commuter,Downtown Dubai,44,Shaded Walking,2,0,,5
+11202,Tourist,Deira,48,Metro-Taxi Combo,2,0,,5
+11203,Tourist,Marina,36,Shaded Walking,1,0,,4
+11204,Tourist,Downtown Dubai,42,Indoor Shortcut,3,1,,5
+11205,Daily Commuter,Downtown Dubai,38,Shaded Walking,4,0,75.0,5
+11206,Daily Commuter,Jumeirah,41,Shaded Walking,0,0,,4
+11207,Daily Commuter,Jumeirah,48,Indoor Shortcut,2,0,,4
+11208,Daily Commuter,Downtown Dubai,46,Shaded Walking,2,1,,4
+11209,Tourist,Deira,33,Indoor Shortcut,5,0,,5
+11210,Leisure Resident,DIFC,35,Indoor Shortcut,2,0,,4
+11211,Daily Commuter,DIFC,34,Shaded Walking,2,0,,4
+11212,Daily Commuter,Downtown Dubai,38,Metro-Taxi Combo,4,0,,5
+11213,Tourist,Downtown Dubai,41,Metro-Taxi Combo,1,0,75.0,5
+11214,Daily Commuter,Downtown Dubai,38,Indoor Shortcut,4,0,,3
+11215,Daily Commuter,Deira,39,Metro-Taxi Combo,3,0,,4
+11216,Tourist,Jumeirah,37,Metro-Taxi Combo,6,0,,5
+11217,Tourist,Downtown Dubai,32,Shaded Walking,0,0,,5
+11218,Daily Commuter,Downtown Dubai,35,Indoor Shortcut,3,1,,4
+11219,Daily Commuter,Marina,45,Indoor Shortcut,1,0,,5
+11220,Tourist,Deira,48,Shaded Walking,1,0,,3
+11221,Leisure Resident,Downtown Dubai,42,Metro-Taxi Combo,2,0,45.0,5
+11222,Tourist,Marina,45,Indoor Shortcut,2,0,,4
+11223,Daily Commuter,DIFC,40,Metro-Taxi Combo,1,0,,1
+11224,Leisure Resident,Downtown Dubai,46,Indoor Shortcut,2,0,,4
+11225,Daily Commuter,Downtown Dubai,43,Indoor Shortcut,3,1,,4
+11226,Daily Commuter,Marina,41,Indoor Shortcut,2,0,,5
+11227,Daily Commuter,Deira,37,Indoor Shortcut,2,0,,5
+11228,Tourist,Downtown Dubai,37,Metro-Taxi Combo,4,0,,5
+11229,Leisure Resident,DIFC,39,Metro-Taxi Combo,1,0,,4
+11230,Daily Commuter,Downtown Dubai,32,Metro-Taxi Combo,0,0,,4
+11231,Leisure Resident,DIFC,48,Metro-Taxi Combo,3,0,,3
+11232,Tourist,Jumeirah,48,Shaded Walking,2,0,,2
+11233,Tourist,Jumeirah,46,Indoor Shortcut,5,0,45.0,5
+11234,Tourist,DIFC,38,Indoor Shortcut,3,0,,3
+11235,Daily Commuter,Deira,34,Indoor Shortcut,7,0,,5
+11236,Daily Commuter,Downtown Dubai,42,Shaded Walking,1,0,,5
+11237,Leisure Resident,Downtown Dubai,40,Metro-Taxi Combo,4,0,,4
+11238,Daily Commuter,Jumeirah,41,Indoor Shortcut,1,0,,5
+11239,Leisure Resident,DIFC,33,Metro-Taxi Combo,2,0,,4
+11240,Tourist,Downtown Dubai,32,Metro-Taxi Combo,4,1,,4
+11241,Leisure Resident,Downtown Dubai,47,Shaded Walking,2,0,,5
+11242,Daily Commuter,Deira,48,Shaded Walking,0,1,,4
+11243,Daily Commuter,Marina,37,Metro-Taxi Combo,2,0,,3
+11244,Leisure Resident,Jumeirah,45,Indoor Shortcut,2,0,,5
+11245,Daily Commuter,Jumeirah,46,Indoor Shortcut,0,0,,4
+11246,Daily Commuter,Marina,45,Shaded Walking,1,0,,5
+11247,Tourist,Downtown Dubai,34,Shaded Walking,3,0,,4
+11248,Tourist,Deira,43,Shaded Walking,0,1,,4
+11249,Leisure Resident,Deira,33,Shaded Walking,1,0,,5
+11250,Daily Commuter,Jumeirah,34,Shaded Walking,1,1,,5
+11251,Daily Commuter,Deira,32,Shaded Walking,2,1,,2
+11252,Daily Commuter,Marina,37,Shaded Walking,0,1,,4
+11253,Tourist,Downtown Dubai,36,Indoor Shortcut,0,0,,5
+11254,Tourist,Marina,32,Shaded Walking,0,0,,1
+11255,Daily Commuter,DIFC,32,Shaded Walking,3,0,,5
+11256,Daily Commuter,Jumeirah,47,Indoor Shortcut,3,0,,5
+11257,Tourist,Deira,43,Indoor Shortcut,0,0,45.0,5
+11258,Daily Commuter,DIFC,39,Metro-Taxi Combo,2,0,,5
+11259,Tourist,Deira,47,Shaded Walking,3,0,,5
+11260,Daily Commuter,Downtown Dubai,32,Shaded Walking,5,0,,5
+11261,Tourist,Downtown Dubai,35,Shaded Walking,3,0,,5
+11262,Daily Commuter,Downtown Dubai,41,Shaded Walking,1,1,45.0,5
+11263,Tourist,Deira,42,Metro-Taxi Combo,3,1,45.0,4
+11264,Daily Commuter,DIFC,48,Indoor Shortcut,2,0,,4
+11265,Tourist,Downtown Dubai,38,Indoor Shortcut,0,0,45.0,5
+11266,Tourist,DIFC,43,Shaded Walking,2,0,,5
+11267,Daily Commuter,Deira,38,Shaded Walking,4,0,,4
+11268,Daily Commuter,DIFC,43,Shaded Walking,3,0,,4
+11269,Daily Commuter,Deira,46,Metro-Taxi Combo,2,0,45.0,5
+11270,Tourist,Deira,33,Metro-Taxi Combo,3,0,,5
+11271,Daily Commuter,Jumeirah,45,Indoor Shortcut,3,0,,4
+11272,Leisure Resident,Deira,44,Shaded Walking,1,0,45.0,5
+11273,Daily Commuter,Deira,35,Shaded Walking,1,0,,-1
+11274,Tourist,Marina,45,Shaded Walking,5,0,,5
+11275,Daily Commuter,Downtown Dubai,45,Shaded Walking,2,0,,5
+11276,Tourist,Jumeirah,47,Metro-Taxi Combo,4,0,,4
+11277,Tourist,Jumeirah,38,Indoor Shortcut,4,0,,5
+11278,Leisure Resident,Jumeirah,33,Indoor Shortcut,2,0,,5
+11279,Tourist,Marina,41,Metro-Taxi Combo,2,1,,5
+11280,Daily Commuter,Deira,48,Shaded Walking,3,0,,4
+11281,Daily Commuter,Downtown Dubai,36,Indoor Shortcut,4,1,,3
+11282,Daily Commuter,DIFC,43,Indoor Shortcut,1,0,,4
+11283,Daily Commuter,Deira,37,Metro-Taxi Combo,2,0,,4
+11284,Tourist,Marina,40,Shaded Walking,1,0,75.0,5
+11285,Tourist,Deira,32,Indoor Shortcut,6,0,,5
+11286,Daily Commuter,Deira,46,Shaded Walking,2,0,,5
+11287,Tourist,Marina,37,Indoor Shortcut,2,0,,5
+11288,Daily Commuter,Jumeirah,37,Metro-Taxi Combo,1,0,,4
+11289,Tourist,Jumeirah,44,Shaded Walking,4,1,,5
+11290,Tourist,Downtown Dubai,32,Metro-Taxi Combo,2,1,,5
+11291,Daily Commuter,Downtown Dubai,44,Indoor Shortcut,3,1,,5
+11292,Tourist,Jumeirah,38,Metro-Taxi Combo,1,0,,5
+11293,Daily Commuter,DIFC,46,Metro-Taxi Combo,4,0,,5
+11294,Daily Commuter,Deira,43,Metro-Taxi Combo,4,0,,5
+11295,Leisure Resident,DIFC,32,Indoor Shortcut,0,0,,4
+11296,Tourist,Deira,46,Shaded Walking,8,0,,5
+11297,Tourist,Jumeirah,35,Metro-Taxi Combo,3,0,,5
+11298,Tourist,Downtown Dubai,44,Shaded Walking,2,0,,4
+11299,Daily Commuter,Downtown Dubai,36,Indoor Shortcut,3,0,,5
+11300,Daily Commuter,DIFC,33,Shaded Walking,0,0,,5
+11301,Tourist,Downtown Dubai,32,Metro-Taxi Combo,2,1,,5
+11302,Leisure Resident,Jumeirah,47,Metro-Taxi Combo,2,1,75.0,5
+11303,Tourist,DIFC,37,Metro-Taxi Combo,1,0,,5
+11304,Daily Commuter,Deira,47,Metro-Taxi Combo,3,0,45.0,4
+11305,Daily Commuter,Downtown Dubai,45,Metro-Taxi Combo,2,1,,3
+11306,Leisure Resident,Marina,34,Metro-Taxi Combo,2,0,,5
+11307,Daily Commuter,Downtown Dubai,46,Indoor Shortcut,2,0,,5
+11308,Leisure Resident,Deira,34,Indoor Shortcut,3,1,,5
+11309,Tourist,DIFC,33,Indoor Shortcut,3,0,,3
+11310,Leisure Resident,Deira,32,Shaded Walking,3,0,,2
+11311,Tourist,Marina,40,Shaded Walking,1,1,,5
+11312,Leisure Resident,Jumeirah,40,Indoor Shortcut,2,0,,3
+11313,Daily Commuter,Downtown Dubai,38,Shaded Walking,3,0,,5
+11314,Leisure Resident,DIFC,34,Shaded Walking,0,0,,5
+11315,Daily Commuter,Jumeirah,42,Metro-Taxi Combo,3,0,,5
+11316,Daily Commuter,Deira,38,Metro-Taxi Combo,1,0,,3
+11317,Daily Commuter,DIFC,40,Shaded Walking,1,0,,5
+11318,Daily Commuter,Jumeirah,32,Shaded Walking,0,0,,5
+11319,Tourist,DIFC,45,Indoor Shortcut,2,0,,4
+11320,Tourist,Marina,37,Shaded Walking,3,0,,4
+11321,Tourist,Marina,38,Metro-Taxi Combo,2,0,45.0,4
+11322,Tourist,Downtown Dubai,41,Shaded Walking,4,0,,3
+11323,Leisure Resident,Downtown Dubai,38,Indoor Shortcut,1,0,75.0,5
+11324,Tourist,Marina,33,Metro-Taxi Combo,2,0,75.0,5
+11325,Leisure Resident,DIFC,35,Metro-Taxi Combo,1,0,,-1
+11326,Tourist,Marina,48,Metro-Taxi Combo,2,0,45.0,5
+11327,Tourist,Downtown Dubai,32,Metro-Taxi Combo,4,0,,5
+11328,Daily Commuter,Marina,41,Shaded Walking,0,0,45.0,4
+11329,Daily Commuter,Marina,46,Indoor Shortcut,3,0,,5
+11330,Daily Commuter,DIFC,41,Shaded Walking,1,0,45.0,5
+11331,Daily Commuter,Jumeirah,43,Shaded Walking,2,0,45.0,5
+11332,Daily Commuter,Downtown Dubai,47,Metro-Taxi Combo,1,0,,5
+11333,Tourist,DIFC,40,Indoor Shortcut,2,0,,5
+11334,Leisure Resident,Marina,46,Metro-Taxi Combo,3,0,,5
+11335,Leisure Resident,Marina,48,Shaded Walking,3,0,,5
+11336,Daily Commuter,Jumeirah,45,Shaded Walking,1,1,,3
+11337,Tourist,Downtown Dubai,33,Metro-Taxi Combo,1,0,,5
+11338,Daily Commuter,Downtown Dubai,35,Shaded Walking,3,0,,5
+11339,Tourist,Deira,38,Shaded Walking,5,1,45.0,4
+11340,Tourist,Downtown Dubai,44,Metro-Taxi Combo,1,0,,3
+11341,Tourist,Jumeirah,46,Shaded Walking,3,0,45.0,5
+11342,Daily Commuter,Deira,32,Indoor Shortcut,1,0,,4
+11343,Leisure Resident,Deira,42,Metro-Taxi Combo,1,0,,4
+11344,Daily Commuter,Marina,41,Indoor Shortcut,2,0,,5
+11345,Daily Commuter,Marina,36,Shaded Walking,0,0,,5
+11346,Daily Commuter,Downtown Dubai,47,Shaded Walking,2,0,,5
+11347,Tourist,Deira,42,Metro-Taxi Combo,2,0,,4
+11348,Daily Commuter,Marina,37,Shaded Walking,1,0,,4
+11349,Leisure Resident,Jumeirah,40,Metro-Taxi Combo,4,0,,4
+11350,Tourist,Marina,44,Metro-Taxi Combo,5,1,,4
+11351,Leisure Resident,Marina,39,Metro-Taxi Combo,2,0,,3
+11352,Daily Commuter,Deira,45,Metro-Taxi Combo,1,0,,5
+11353,Daily Commuter,Deira,32,Metro-Taxi Combo,2,0,,5
+11354,Daily Commuter,DIFC,48,Indoor Shortcut,3,0,,3
+11355,Daily Commuter,Jumeirah,36,Metro-Taxi Combo,0,0,,4
+11356,Leisure Resident,Deira,33,Indoor Shortcut,1,0,,5
+11357,Leisure Resident,Downtown Dubai,40,Shaded Walking,5,0,,5
+11358,Daily Commuter,Jumeirah,35,Metro-Taxi Combo,3,0,,2
+11359,Tourist,Jumeirah,48,Shaded Walking,0,0,,5
+11360,Daily Commuter,Deira,48,Metro-Taxi Combo,4,0,,4
+11361,Leisure Resident,Jumeirah,47,Indoor Shortcut,2,0,,1
+11362,Tourist,Deira,39,Indoor Shortcut,2,0,,3
+11363,Daily Commuter,Marina,42,Indoor Shortcut,1,0,45.0,5
+11364,Daily Commuter,DIFC,41,Shaded Walking,4,0,,3
+11365,Daily Commuter,Marina,44,Metro-Taxi Combo,1,0,45.0,2
+11366,Tourist,Deira,48,Shaded Walking,1,0,,4
+11367,Daily Commuter,Deira,41,Indoor Shortcut,3,0,,5
+11368,Leisure Resident,Marina,47,Shaded Walking,2,0,,3
+11369,Tourist,Downtown Dubai,36,Indoor Shortcut,2,0,,4
+11370,Tourist,Downtown Dubai,44,Indoor Shortcut,1,0,45.0,4
+11371,Leisure Resident,Downtown Dubai,48,Indoor Shortcut,2,1,,4
+11372,Tourist,Deira,40,Metro-Taxi Combo,2,0,,5
+11373,Leisure Resident,Jumeirah,45,Metro-Taxi Combo,1,0,,3
+11374,Daily Commuter,Deira,48,Indoor Shortcut,2,0,,2
+11375,Tourist,Jumeirah,35,Shaded Walking,1,0,,5
+11376,Leisure Resident,Marina,46,Shaded Walking,3,0,,4
+11377,Daily Commuter,DIFC,42,Metro-Taxi Combo,0,0,,3
+11378,Daily Commuter,Jumeirah,43,Indoor Shortcut,1,0,,4
+11379,Daily Commuter,Downtown Dubai,40,Shaded Walking,2,1,,5
+11380,Daily Commuter,Deira,44,Indoor Shortcut,3,0,,5
+11381,Tourist,Marina,46,Shaded Walking,3,1,,5
+11382,Daily Commuter,Downtown Dubai,46,Metro-Taxi Combo,0,0,,5
+11383,Leisure Resident,Marina,36,Indoor Shortcut,1,0,,5
+11384,Tourist,DIFC,45,Indoor Shortcut,2,0,,5
+11385,Daily Commuter,Deira,48,Shaded Walking,0,0,,5
+11386,Tourist,Deira,34,Shaded Walking,2,0,,4
+11387,Daily Commuter,DIFC,33,Shaded Walking,3,0,,4
+11388,Tourist,Deira,32,Indoor Shortcut,2,0,,5
+11389,Leisure Resident,Jumeirah,41,Metro-Taxi Combo,4,1,,-1
+11390,Daily Commuter,Marina,48,Metro-Taxi Combo,2,0,,4
+11391,Tourist,Downtown Dubai,43,Shaded Walking,2,0,,5
+11392,Tourist,DIFC,32,Metro-Taxi Combo,0,1,,4
+11393,Tourist,Jumeirah,43,Shaded Walking,0,0,,4
+11394,Daily Commuter,Downtown Dubai,48,Metro-Taxi Combo,2,0,,4
+11395,Tourist,Downtown Dubai,34,Indoor Shortcut,1,0,45.0,5
+11396,Leisure Resident,DIFC,42,Shaded Walking,1,0,,4
+11397,Daily Commuter,Jumeirah,48,Metro-Taxi Combo,3,0,,5
+11398,Tourist,Downtown Dubai,34,Indoor Shortcut,2,0,,5
+11399,Daily Commuter,Downtown Dubai,39,Metro-Taxi Combo,4,1,,5
+11400,Daily Commuter,Jumeirah,35,Indoor Shortcut,3,0,,4
+11401,Tourist,Deira,38,Indoor Shortcut,2,0,75.0,5
+11402,Tourist,Downtown Dubai,45,Metro-Taxi Combo,1,0,,4
+11403,Tourist,Marina,45,Metro-Taxi Combo,1,0,,4
+11404,Daily Commuter,Jumeirah,35,Indoor Shortcut,2,0,,5
+11405,Daily Commuter,Downtown Dubai,47,Indoor Shortcut,5,0,,4
+11406,Daily Commuter,DIFC,32,Indoor Shortcut,4,0,,3
+11407,Leisure Resident,Marina,48,Shaded Walking,1,0,75.0,4
+11408,Leisure Resident,Downtown Dubai,41,Indoor Shortcut,0,0,,5
+11409,Daily Commuter,Marina,47,Shaded Walking,0,0,,4
+11410,Leisure Resident,Marina,47,Indoor Shortcut,5,1,,5
+11411,Tourist,Deira,39,Shaded Walking,4,0,,5
+11412,Tourist,Marina,38,Indoor Shortcut,2,0,,5
+11413,Tourist,Deira,37,Indoor Shortcut,2,0,,5
+11414,Tourist,Jumeirah,47,Indoor Shortcut,4,0,,4
+11415,Daily Commuter,Deira,47,Metro-Taxi Combo,3,0,,4
+11416,Leisure Resident,DIFC,38,Metro-Taxi Combo,6,0,,4
+11417,Tourist,Downtown Dubai,40,Indoor Shortcut,0,0,,4
+11418,Tourist,Jumeirah,45,Shaded Walking,3,0,,5
+11419,Daily Commuter,Jumeirah,42,Shaded Walking,1,0,45.0,1
+11420,Leisure Resident,DIFC,45,Indoor Shortcut,1,0,,4
+11421,Tourist,Deira,38,Metro-Taxi Combo,1,1,,5
+11422,Daily Commuter,Downtown Dubai,32,Shaded Walking,5,1,,5
+11423,Tourist,Deira,44,Metro-Taxi Combo,6,1,,5
+11424,Tourist,Marina,34,Shaded Walking,1,0,,5
+11425,Leisure Resident,Deira,35,Indoor Shortcut,2,1,,5
+11426,Leisure Resident,Jumeirah,42,Metro-Taxi Combo,0,0,,5
+11427,Tourist,Downtown Dubai,33,Shaded Walking,0,0,,4
+11428,Leisure Resident,Deira,45,Indoor Shortcut,4,0,,-1
+11429,Daily Commuter,Downtown Dubai,43,Indoor Shortcut,2,0,,5
+11430,Leisure Resident,Downtown Dubai,48,Indoor Shortcut,1,0,,4
+11431,Daily Commuter,Marina,43,Metro-Taxi Combo,2,0,,4
+11432,Daily Commuter,Marina,43,Metro-Taxi Combo,0,0,45.0,5
+11433,Daily Commuter,Jumeirah,32,Indoor Shortcut,0,1,,5
+11434,Daily Commuter,DIFC,44,Metro-Taxi Combo,2,0,,4
+11435,Tourist,Downtown Dubai,45,Shaded Walking,2,0,,3
+11436,Tourist,DIFC,33,Indoor Shortcut,0,0,,5
+11437,Tourist,Jumeirah,43,Indoor Shortcut,2,0,,5
+11438,Daily Commuter,Downtown Dubai,47,Metro-Taxi Combo,1,0,,4
+11439,Tourist,Downtown Dubai,35,Indoor Shortcut,3,0,,4
+11440,Daily Commuter,DIFC,39,Shaded Walking,4,1,,5
+11441,Leisure Resident,Deira,33,Metro-Taxi Combo,4,0,,4
+11442,Tourist,Marina,41,Metro-Taxi Combo,2,1,,5
+11443,Daily Commuter,Deira,40,Indoor Shortcut,4,0,,3
+11444,Daily Commuter,DIFC,46,Indoor Shortcut,4,0,,2
+11445,Leisure Resident,Marina,44,Indoor Shortcut,2,0,,4
+11446,Tourist,Deira,48,Metro-Taxi Combo,2,0,75.0,4
+11447,Daily Commuter,Marina,47,Indoor Shortcut,0,0,,3
+11448,Leisure Resident,Downtown Dubai,33,Shaded Walking,4,0,,3
+11449,Leisure Resident,Deira,45,Indoor Shortcut,3,0,,5
+11450,Daily Commuter,Marina,34,Indoor Shortcut,2,0,,4
+11451,Daily Commuter,Marina,43,Metro-Taxi Combo,3,0,,5
+11452,Daily Commuter,Marina,39,Indoor Shortcut,3,0,,4
+11453,Leisure Resident,Deira,33,Metro-Taxi Combo,2,1,45.0,5
+11454,Daily Commuter,Jumeirah,35,Indoor Shortcut,6,0,,4
+11455,Tourist,Deira,45,Shaded Walking,1,0,,4
+11456,Leisure Resident,DIFC,47,Shaded Walking,2,1,,5
+11457,Daily Commuter,Deira,33,Metro-Taxi Combo,2,1,,5
+11458,Daily Commuter,Marina,43,Metro-Taxi Combo,2,0,,5
+11459,Tourist,Downtown Dubai,45,Indoor Shortcut,3,0,45.0,5
+11460,Daily Commuter,Deira,37,Indoor Shortcut,2,0,,5
+11461,Daily Commuter,Deira,44,Shaded Walking,3,0,,4
+11462,Daily Commuter,Marina,35,Indoor Shortcut,1,0,,5
+11463,Tourist,Downtown Dubai,43,Shaded Walking,1,0,,5
+11464,Daily Commuter,Downtown Dubai,39,Metro-Taxi Combo,0,0,,-1
+11465,Leisure Resident,DIFC,38,Indoor Shortcut,6,0,,5
+11466,Tourist,Deira,47,Metro-Taxi Combo,2,0,,2
+11467,Leisure Resident,Downtown Dubai,37,Indoor Shortcut,6,0,45.0,4
+11468,Daily Commuter,Downtown Dubai,42,Shaded Walking,2,0,,5
+11469,Leisure Resident,Jumeirah,36,Metro-Taxi Combo,1,0,,5
+11470,Daily Commuter,Jumeirah,47,Metro-Taxi Combo,1,0,,5
+11471,Daily Commuter,Downtown Dubai,38,Indoor Shortcut,0,1,,5
+11472,Daily Commuter,DIFC,36,Metro-Taxi Combo,2,1,,4
+11473,Leisure Resident,Downtown Dubai,42,Shaded Walking,2,0,75.0,4
+11474,Daily Commuter,Marina,46,Metro-Taxi Combo,5,0,,3
+11475,Tourist,Deira,34,Metro-Taxi Combo,1,0,,5
+11476,Daily Commuter,DIFC,36,Indoor Shortcut,1,0,,5
+11477,Leisure Resident,Marina,36,Metro-Taxi Combo,2,1,,4
+11478,Daily Commuter,DIFC,40,Indoor Shortcut,2,1,75.0,5
+11479,Daily Commuter,Marina,46,Indoor Shortcut,2,0,,3
+11480,Daily Commuter,Deira,34,Metro-Taxi Combo,0,0,,3
+11481,Leisure Resident,Deira,37,Shaded Walking,3,0,,5
+11482,Tourist,Jumeirah,48,Indoor Shortcut,3,0,,4
+11483,Daily Commuter,Marina,39,Metro-Taxi Combo,3,0,,5
+11484,Tourist,Jumeirah,42,Indoor Shortcut,1,0,,5
+11485,Tourist,Marina,37,Shaded Walking,3,0,,5
+11486,Daily Commuter,Jumeirah,39,Shaded Walking,1,0,45.0,4
+11487,Daily Commuter,Deira,41,Indoor Shortcut,2,0,,4
+11488,Daily Commuter,DIFC,34,Shaded Walking,2,0,75.0,5
+11489,Daily Commuter,Jumeirah,45,Metro-Taxi Combo,1,1,,5
+11490,Daily Commuter,Marina,45,Metro-Taxi Combo,5,1,45.0,5
+11491,Tourist,Marina,41,Indoor Shortcut,1,1,,4
+11492,Daily Commuter,Deira,43,Shaded Walking,2,1,,4
+11493,Tourist,Marina,37,Metro-Taxi Combo,1,0,45.0,5
+11494,Tourist,Downtown Dubai,43,Metro-Taxi Combo,4,0,,5
+11495,Daily Commuter,DIFC,45,Metro-Taxi Combo,2,0,,4
+11496,Daily Commuter,Jumeirah,33,Indoor Shortcut,1,0,,3
+11497,Daily Commuter,DIFC,40,Indoor Shortcut,1,0,,5
+11498,Daily Commuter,Deira,41,Metro-Taxi Combo,1,0,75.0,4
+11499,Daily Commuter,Jumeirah,48,Metro-Taxi Combo,3,0,,4
+11500,Leisure Resident,Jumeirah,48,Shaded Walking,1,0,,3
+11501,Daily Commuter,Downtown Dubai,34,Shaded Walking,1,0,,4
+11502,Daily Commuter,Deira,32,Shaded Walking,3,0,,5
+11503,Tourist,Marina,43,Indoor Shortcut,3,0,,4
+11504,Tourist,Downtown Dubai,38,Metro-Taxi Combo,2,0,,2
+11505,Daily Commuter,Downtown Dubai,35,Indoor Shortcut,0,0,,3
+11506,Daily Commuter,DIFC,41,Metro-Taxi Combo,1,0,,4
+11507,Daily Commuter,DIFC,44,Shaded Walking,2,1,,5
+11508,Daily Commuter,DIFC,33,Shaded Walking,1,1,,3
+11509,Daily Commuter,Downtown Dubai,41,Shaded Walking,0,0,,5
+11510,Daily Commuter,Marina,35,Shaded Walking,0,0,,3
+11511,Leisure Resident,Jumeirah,36,Metro-Taxi Combo,0,0,45.0,4
+11512,Daily Commuter,DIFC,33,Shaded Walking,2,1,,4
+11513,Leisure Resident,Marina,43,Metro-Taxi Combo,0,0,,3
+11514,Tourist,Deira,48,Metro-Taxi Combo,0,0,45.0,5
+11515,Tourist,DIFC,41,Indoor Shortcut,5,0,,4
+11516,Tourist,Jumeirah,33,Shaded Walking,3,0,45.0,5
+11517,Daily Commuter,Deira,37,Shaded Walking,1,0,,3
+11518,Leisure Resident,Deira,39,Indoor Shortcut,0,0,,3
+11519,Tourist,Jumeirah,42,Metro-Taxi Combo,2,0,45.0,4
+11520,Leisure Resident,DIFC,43,Shaded Walking,0,0,45.0,5
+11521,Tourist,Downtown Dubai,40,Metro-Taxi Combo,1,1,,4
+11522,Leisure Resident,Jumeirah,33,Indoor Shortcut,1,0,,4
+11523,Daily Commuter,Jumeirah,39,Metro-Taxi Combo,2,0,,4
+11524,Tourist,Jumeirah,42,Shaded Walking,2,0,,3
+11525,Daily Commuter,Deira,35,Metro-Taxi Combo,3,0,,5
+11526,Tourist,Marina,41,Metro-Taxi Combo,2,0,,5
+11527,Tourist,Downtown Dubai,47,Shaded Walking,2,0,,5
+11528,Tourist,DIFC,39,Shaded Walking,2,0,,5
+11529,Leisure Resident,DIFC,35,Metro-Taxi Combo,0,1,,5
+11530,Daily Commuter,Marina,41,Metro-Taxi Combo,2,0,,3
+11531,Tourist,Jumeirah,43,Indoor Shortcut,0,0,,5
+11532,Daily Commuter,Downtown Dubai,45,Shaded Walking,0,0,,4
+11533,Daily Commuter,DIFC,47,Metro-Taxi Combo,4,0,,4
+11534,Tourist,DIFC,43,Shaded Walking,2,0,,5
+11535,Daily Commuter,Jumeirah,38,Indoor Shortcut,3,0,,5
+11536,Tourist,Marina,38,Metro-Taxi Combo,4,0,,5
+11537,Tourist,Downtown Dubai,40,Metro-Taxi Combo,4,0,,5
+11538,Daily Commuter,Marina,32,Metro-Taxi Combo,1,0,,3
+11539,Tourist,Marina,37,Shaded Walking,3,0,,4
+11540,Daily Commuter,Downtown Dubai,37,Indoor Shortcut,1,0,,2
+11541,Daily Commuter,Downtown Dubai,43,Shaded Walking,3,0,,5
+11542,Tourist,DIFC,43,Metro-Taxi Combo,1,0,,5
+11543,Daily Commuter,DIFC,41,Indoor Shortcut,2,0,,4
+11544,Tourist,Downtown Dubai,37,Metro-Taxi Combo,3,0,,3
+11545,Leisure Resident,Deira,48,Metro-Taxi Combo,1,0,,4
+11546,Daily Commuter,DIFC,37,Shaded Walking,4,0,,5
+11547,Leisure Resident,Deira,41,Metro-Taxi Combo,2,0,,5
+11548,Daily Commuter,Downtown Dubai,39,Indoor Shortcut,0,1,,2
+11549,Tourist,DIFC,37,Metro-Taxi Combo,1,0,,5
+11550,Daily Commuter,Marina,38,Metro-Taxi Combo,0,0,45.0,5
+11551,Leisure Resident,Downtown Dubai,32,Shaded Walking,1,0,45.0,3
+11552,Daily Commuter,Jumeirah,43,Indoor Shortcut,4,0,,5
+11553,Leisure Resident,Deira,47,Shaded Walking,2,1,,4
+11554,Leisure Resident,Downtown Dubai,41,Metro-Taxi Combo,2,0,,4
+11555,Tourist,Downtown Dubai,41,Shaded Walking,1,1,,4
+11556,Tourist,DIFC,45,Shaded Walking,1,0,,5
+11557,Daily Commuter,DIFC,41,Shaded Walking,4,0,,5
+11558,Daily Commuter,DIFC,41,Shaded Walking,4,0,,3
+11559,Leisure Resident,Jumeirah,42,Metro-Taxi Combo,1,1,,5
+11560,Leisure Resident,DIFC,33,Metro-Taxi Combo,4,0,,3
+11561,Daily Commuter,Downtown Dubai,39,Indoor Shortcut,0,0,,5
+11562,Tourist,DIFC,38,Shaded Walking,2,0,,5
+11563,Daily Commuter,Marina,39,Shaded Walking,0,0,,4
+11564,Tourist,DIFC,32,Indoor Shortcut,2,1,,4
+11565,Leisure Resident,Jumeirah,33,Shaded Walking,1,0,,5
+11566,Daily Commuter,Marina,46,Indoor Shortcut,3,0,,4
+11567,Daily Commuter,Downtown Dubai,32,Metro-Taxi Combo,3,0,,5
+11568,Tourist,Downtown Dubai,36,Indoor Shortcut,0,1,,5
+11569,Daily Commuter,Deira,33,Shaded Walking,2,0,75.0,5
+11570,Daily Commuter,Marina,34,Indoor Shortcut,0,0,,4
+11571,Daily Commuter,Deira,45,Metro-Taxi Combo,2,0,,4
+11572,Tourist,Marina,39,Shaded Walking,1,0,,4
+11573,Daily Commuter,Marina,43,Metro-Taxi Combo,3,0,,5
+11574,Leisure Resident,Jumeirah,41,Metro-Taxi Combo,2,0,45.0,4
+11575,Tourist,Deira,48,Indoor Shortcut,1,0,,4
+11576,Tourist,Jumeirah,42,Metro-Taxi Combo,2,0,,5
+11577,Tourist,Marina,33,Shaded Walking,3,0,,5
+11578,Daily Commuter,Downtown Dubai,35,Metro-Taxi Combo,3,1,,3
+11579,Daily Commuter,Marina,32,Metro-Taxi Combo,0,1,,-1
+11580,Daily Commuter,Jumeirah,46,Indoor Shortcut,1,0,,5
+11581,Tourist,Deira,44,Metro-Taxi Combo,4,1,,4
+11582,Daily Commuter,Deira,39,Indoor Shortcut,3,1,,4
+11583,Daily Commuter,Jumeirah,35,Indoor Shortcut,1,1,,5
+11584,Daily Commuter,Deira,41,Shaded Walking,0,0,,5
+11585,Leisure Resident,DIFC,36,Shaded Walking,4,0,,4
+11586,Tourist,Downtown Dubai,47,Shaded Walking,1,0,,4
+11587,Daily Commuter,Downtown Dubai,32,Shaded Walking,3,0,,4
+11588,Daily Commuter,Downtown Dubai,43,Indoor Shortcut,1,0,,5
+11589,Daily Commuter,Deira,33,Metro-Taxi Combo,2,0,45.0,4
+11590,Daily Commuter,Deira,39,Shaded Walking,4,0,,3
+11591,Daily Commuter,Marina,47,Shaded Walking,1,0,,5
+11592,Leisure Resident,Marina,36,Shaded Walking,4,1,,5
+11593,Tourist,Downtown Dubai,44,Metro-Taxi Combo,2,1,,5
+11594,Tourist,DIFC,34,Shaded Walking,3,1,,4
+11595,Daily Commuter,Marina,39,Metro-Taxi Combo,4,0,,4
+11596,Daily Commuter,Marina,43,Indoor Shortcut,5,0,,4
+11597,Tourist,Deira,33,Indoor Shortcut,1,0,,5
+11598,Tourist,DIFC,42,Indoor Shortcut,2,0,,5
+11599,Tourist,Downtown Dubai,43,Metro-Taxi Combo,3,0,,4
+11600,Leisure Resident,Marina,44,Shaded Walking,0,0,,4
+11601,Tourist,DIFC,36,Shaded Walking,1,0,,5
+11602,Tourist,DIFC,43,Shaded Walking,2,0,45.0,5
+11603,Tourist,Downtown Dubai,33,Shaded Walking,0,0,,4
+11604,Daily Commuter,DIFC,36,Shaded Walking,2,1,,5
+11605,Tourist,DIFC,38,Metro-Taxi Combo,4,0,,5
+11606,Daily Commuter,DIFC,43,Indoor Shortcut,3,0,,5
+11607,Tourist,Marina,47,Shaded Walking,2,1,,5
+11608,Leisure Resident,Downtown Dubai,39,Indoor Shortcut,4,0,,5
+11609,Tourist,DIFC,40,Metro-Taxi Combo,3,0,45.0,5
+11610,Daily Commuter,DIFC,46,Metro-Taxi Combo,0,0,,5
+11611,Leisure Resident,Marina,36,Shaded Walking,2,0,75.0,4
+11612,Daily Commuter,Downtown Dubai,44,Metro-Taxi Combo,5,1,45.0,4
+11613,Daily Commuter,Deira,36,Indoor Shortcut,1,0,,5
+11614,Tourist,Marina,42,Shaded Walking,2,0,45.0,5
+11615,Tourist,Downtown Dubai,41,Shaded Walking,2,0,,5
+11616,Daily Commuter,DIFC,44,Indoor Shortcut,2,1,,3
+11617,Leisure Resident,Downtown Dubai,40,Shaded Walking,1,0,,5
+11618,Daily Commuter,Downtown Dubai,45,Shaded Walking,2,0,45.0,3
+11619,Daily Commuter,Downtown Dubai,46,Indoor Shortcut,0,0,,5
+11620,Daily Commuter,Deira,41,Shaded Walking,0,0,,4
+11621,Daily Commuter,Downtown Dubai,38,Shaded Walking,0,0,,3
+11622,Tourist,Deira,39,Indoor Shortcut,2,0,,1
+11623,Daily Commuter,DIFC,34,Metro-Taxi Combo,5,0,,5
+11624,Leisure Resident,Deira,46,Indoor Shortcut,3,0,,4
+11625,Tourist,DIFC,47,Shaded Walking,4,0,,3
+11626,Daily Commuter,DIFC,35,Indoor Shortcut,1,1,45.0,4
+11627,Tourist,Deira,37,Shaded Walking,2,0,,4
+11628,Daily Commuter,Marina,32,Shaded Walking,3,0,,5
+11629,Tourist,Jumeirah,35,Indoor Shortcut,2,0,,4
+11630,Daily Commuter,Downtown Dubai,42,Shaded Walking,3,0,,4
+11631,Daily Commuter,Jumeirah,43,Metro-Taxi Combo,5,0,45.0,5
+11632,Tourist,Downtown Dubai,36,Shaded Walking,3,0,,5
+11633,Daily Commuter,Downtown Dubai,47,Indoor Shortcut,1,0,,5
+11634,Daily Commuter,DIFC,44,Metro-Taxi Combo,2,0,,5
+11635,Leisure Resident,Downtown Dubai,44,Metro-Taxi Combo,1,0,,5
+11636,Tourist,Downtown Dubai,48,Shaded Walking,2,0,45.0,4
+11637,Daily Commuter,Deira,38,Indoor Shortcut,1,0,,-1
+11638,Tourist,Jumeirah,39,Shaded Walking,2,0,,5
+11639,Leisure Resident,Deira,44,Shaded Walking,1,0,,5
+11640,Leisure Resident,Downtown Dubai,47,Indoor Shortcut,3,0,,5
+11641,Daily Commuter,DIFC,35,Indoor Shortcut,3,1,,5
+11642,Leisure Resident,Deira,39,Shaded Walking,3,0,45.0,3
+11643,Daily Commuter,Deira,47,Metro-Taxi Combo,0,0,,4
+11644,Daily Commuter,Marina,41,Shaded Walking,0,0,,5
+11645,Tourist,Downtown Dubai,43,Metro-Taxi Combo,1,1,,5
+11646,Daily Commuter,DIFC,43,Shaded Walking,1,0,,4
+11647,Tourist,Deira,36,Indoor Shortcut,4,0,,5
+11648,Leisure Resident,Deira,47,Metro-Taxi Combo,1,0,45.0,5
+11649,Daily Commuter,DIFC,32,Indoor Shortcut,2,0,,1
+11650,Daily Commuter,Downtown Dubai,40,Indoor Shortcut,1,0,,5
+11651,Tourist,Marina,43,Indoor Shortcut,2,0,45.0,5
+11652,Tourist,Deira,36,Indoor Shortcut,0,1,,4
+11653,Tourist,Marina,34,Indoor Shortcut,4,0,,5
+11654,Daily Commuter,Jumeirah,36,Shaded Walking,2,1,,4
+11655,Tourist,Downtown Dubai,33,Metro-Taxi Combo,0,0,,4
+11656,Leisure Resident,Jumeirah,45,Shaded Walking,2,0,,3
+11657,Daily Commuter,Jumeirah,33,Shaded Walking,3,0,,5
+11658,Tourist,Jumeirah,44,Shaded Walking,2,0,,4
+11659,Daily Commuter,Downtown Dubai,38,Indoor Shortcut,2,1,,4
+11660,Daily Commuter,Downtown Dubai,41,Shaded Walking,2,0,45.0,5
+11661,Daily Commuter,DIFC,44,Metro-Taxi Combo,0,1,,1
+11662,Daily Commuter,Marina,47,Shaded Walking,0,1,,5
+11663,Leisure Resident,Marina,45,Indoor Shortcut,1,0,,5
+11664,Daily Commuter,DIFC,42,Metro-Taxi Combo,3,1,,-1
+11665,Leisure Resident,DIFC,41,Metro-Taxi Combo,4,0,,5
+11666,Leisure Resident,Jumeirah,37,Metro-Taxi Combo,2,0,,3
+11667,Tourist,DIFC,35,Metro-Taxi Combo,2,1,,3
+11668,Leisure Resident,Deira,32,Shaded Walking,2,1,,5
+11669,Tourist,Marina,38,Indoor Shortcut,0,0,,5
+11670,Leisure Resident,DIFC,40,Metro-Taxi Combo,0,0,,4
+11671,Daily Commuter,Deira,39,Metro-Taxi Combo,0,0,,5
+11672,Leisure Resident,Deira,36,Indoor Shortcut,0,0,,4
+11673,Leisure Resident,Deira,41,Shaded Walking,1,0,,5
+11674,Leisure Resident,Deira,42,Metro-Taxi Combo,2,0,,5
+11675,Daily Commuter,Jumeirah,46,Shaded Walking,3,0,,-1
+11676,Tourist,Deira,37,Shaded Walking,6,0,,5
+11677,Tourist,Jumeirah,46,Shaded Walking,3,0,,5
+11678,Daily Commuter,Jumeirah,36,Shaded Walking,2,0,,4
+11679,Tourist,Deira,41,Metro-Taxi Combo,2,0,,5
+11680,Daily Commuter,Marina,43,Metro-Taxi Combo,0,0,,5
+11681,Tourist,Deira,35,Shaded Walking,1,0,,5
+11682,Leisure Resident,Deira,47,Shaded Walking,2,0,,5
+11683,Daily Commuter,Deira,39,Indoor Shortcut,1,0,,3
+11684,Leisure Resident,Marina,35,Indoor Shortcut,1,0,,5
+11685,Tourist,Downtown Dubai,43,Indoor Shortcut,0,1,,5
+11686,Leisure Resident,Downtown Dubai,33,Metro-Taxi Combo,0,0,,4
+11687,Leisure Resident,Jumeirah,35,Indoor Shortcut,3,0,,4
+11688,Daily Commuter,Jumeirah,36,Metro-Taxi Combo,1,0,,5
+11689,Daily Commuter,Marina,34,Metro-Taxi Combo,1,1,,4
+11690,Daily Commuter,DIFC,40,Metro-Taxi Combo,4,0,,4
+11691,Tourist,Downtown Dubai,42,Metro-Taxi Combo,3,1,,3
+11692,Daily Commuter,Jumeirah,34,Indoor Shortcut,2,0,,5
+11693,Daily Commuter,Downtown Dubai,33,Shaded Walking,5,0,,5
+11694,Tourist,Marina,40,Shaded Walking,2,1,,1
+11695,Daily Commuter,Marina,45,Shaded Walking,1,0,,5
+11696,Tourist,DIFC,35,Indoor Shortcut,4,0,,5
+11697,Tourist,DIFC,40,Shaded Walking,4,0,,1
+11698,Tourist,Marina,44,Indoor Shortcut,4,0,,4
+11699,Leisure Resident,Jumeirah,46,Indoor Shortcut,3,0,,5
+11700,Daily Commuter,Downtown Dubai,41,Indoor Shortcut,1,0,,4
+11701,Leisure Resident,Deira,47,Shaded Walking,3,0,,5
+11702,Daily Commuter,DIFC,43,Shaded Walking,0,0,,4
+11703,Tourist,Deira,36,Shaded Walking,0,0,,4
+11704,Daily Commuter,Jumeirah,33,Metro-Taxi Combo,4,1,,5
+11705,Daily Commuter,DIFC,41,Indoor Shortcut,5,0,,4
+11706,Tourist,Deira,32,Metro-Taxi Combo,2,0,45.0,5
+11707,Daily Commuter,Jumeirah,38,Indoor Shortcut,1,0,,3
+11708,Tourist,Downtown Dubai,48,Shaded Walking,1,0,,4
+11709,Daily Commuter,Jumeirah,47,Indoor Shortcut,1,0,,4
+11710,Daily Commuter,DIFC,34,Indoor Shortcut,3,0,,4
+11711,Tourist,Marina,45,Metro-Taxi Combo,0,0,,4
+11712,Tourist,Downtown Dubai,41,Indoor Shortcut,2,0,,4
+11713,Daily Commuter,Deira,38,Shaded Walking,0,0,,5
+11714,Daily Commuter,DIFC,48,Indoor Shortcut,2,0,45.0,5
+11715,Tourist,Marina,37,Indoor Shortcut,0,0,,3
+11716,Leisure Resident,Jumeirah,35,Indoor Shortcut,5,0,45.0,5
+11717,Tourist,Marina,48,Metro-Taxi Combo,2,0,,4
+11718,Daily Commuter,DIFC,40,Indoor Shortcut,2,0,,4
+11719,Leisure Resident,DIFC,35,Indoor Shortcut,7,1,,5
+11720,Tourist,Marina,38,Metro-Taxi Combo,1,0,,4
+11721,Tourist,Jumeirah,33,Metro-Taxi Combo,3,0,,4
+11722,Tourist,Marina,48,Metro-Taxi Combo,0,0,45.0,3
+11723,Tourist,DIFC,39,Metro-Taxi Combo,1,0,,5
+11724,Tourist,DIFC,46,Shaded Walking,2,0,,5
+11725,Daily Commuter,Deira,46,Shaded Walking,1,1,,3
+11726,Tourist,Deira,39,Indoor Shortcut,2,0,,4
+11727,Daily Commuter,Downtown Dubai,47,Shaded Walking,0,0,45.0,5
+11728,Leisure Resident,DIFC,42,Indoor Shortcut,1,0,,5
+11729,Leisure Resident,Deira,33,Shaded Walking,0,0,,3
+11730,Daily Commuter,Marina,48,Metro-Taxi Combo,4,0,,4
+11731,Tourist,Jumeirah,47,Metro-Taxi Combo,2,0,,4
+11732,Daily Commuter,Marina,46,Shaded Walking,1,0,,5
+11733,Daily Commuter,Jumeirah,44,Shaded Walking,0,0,,5
+11734,Daily Commuter,Deira,46,Indoor Shortcut,8,1,,4
+11735,Tourist,Downtown Dubai,35,Indoor Shortcut,1,0,,4
+11736,Leisure Resident,Marina,47,Indoor Shortcut,3,0,,5
+11737,Daily Commuter,Marina,43,Metro-Taxi Combo,2,0,,5
+11738,Tourist,Marina,35,Metro-Taxi Combo,1,0,45.0,5
+11739,Daily Commuter,Jumeirah,34,Metro-Taxi Combo,1,0,,4
+11740,Daily Commuter,Deira,48,Metro-Taxi Combo,4,0,,5
+11741,Leisure Resident,Marina,48,Indoor Shortcut,1,0,,5
+11742,Daily Commuter,Marina,43,Metro-Taxi Combo,1,1,,4
+11743,Daily Commuter,Downtown Dubai,35,Metro-Taxi Combo,2,0,,-1
+11744,Tourist,Downtown Dubai,43,Metro-Taxi Combo,2,1,45.0,5
+11745,Daily Commuter,Deira,46,Metro-Taxi Combo,0,0,,5
+11746,Daily Commuter,Deira,47,Shaded Walking,2,1,,5
+11747,Tourist,DIFC,36,Indoor Shortcut,1,0,,4
+11748,Tourist,Downtown Dubai,46,Indoor Shortcut,3,1,,4
+11749,Daily Commuter,DIFC,48,Metro-Taxi Combo,1,0,,4
+11750,Tourist,Jumeirah,36,Shaded Walking,2,0,,5
+11751,Daily Commuter,DIFC,44,Indoor Shortcut,6,0,,4
+11752,Tourist,Marina,44,Indoor Shortcut,3,0,45.0,5
+11753,Tourist,DIFC,45,Metro-Taxi Combo,0,0,,3
+11754,Tourist,Deira,35,Metro-Taxi Combo,2,0,,5
+11755,Leisure Resident,Jumeirah,35,Indoor Shortcut,4,1,,5
+11756,Leisure Resident,Marina,44,Indoor Shortcut,0,0,45.0,5
+11757,Leisure Resident,DIFC,43,Shaded Walking,3,0,,5
+11758,Daily Commuter,Jumeirah,38,Indoor Shortcut,2,0,,-1
+11759,Tourist,Jumeirah,43,Indoor Shortcut,3,0,75.0,3
+11760,Daily Commuter,Marina,35,Metro-Taxi Combo,2,0,,3
+11761,Daily Commuter,DIFC,33,Indoor Shortcut,3,0,,3
+11762,Leisure Resident,Jumeirah,33,Metro-Taxi Combo,1,0,,5
+11763,Tourist,Jumeirah,36,Indoor Shortcut,3,0,,4
+11764,Daily Commuter,Downtown Dubai,41,Indoor Shortcut,1,1,,5
+11765,Tourist,Jumeirah,41,Indoor Shortcut,5,0,,4
+11766,Tourist,Downtown Dubai,40,Shaded Walking,0,1,,5
+11767,Daily Commuter,DIFC,44,Metro-Taxi Combo,6,0,,5
+11768,Daily Commuter,DIFC,38,Shaded Walking,3,0,,5
+11769,Daily Commuter,DIFC,36,Indoor Shortcut,2,0,,5
+11770,Daily Commuter,Deira,41,Shaded Walking,3,0,,3
+11771,Daily Commuter,DIFC,41,Metro-Taxi Combo,1,0,75.0,4
+11772,Daily Commuter,Jumeirah,37,Indoor Shortcut,3,0,,5
+11773,Leisure Resident,Marina,39,Shaded Walking,1,0,,4
+11774,Leisure Resident,Downtown Dubai,32,Shaded Walking,2,1,,5
+11775,Daily Commuter,Deira,48,Metro-Taxi Combo,2,0,,5
+11776,Tourist,DIFC,38,Shaded Walking,1,0,,5
+11777,Daily Commuter,DIFC,45,Metro-Taxi Combo,2,0,,4
+11778,Daily Commuter,Marina,48,Indoor Shortcut,2,0,,5
+11779,Tourist,Marina,40,Indoor Shortcut,2,0,,4
+11780,Leisure Resident,Deira,48,Shaded Walking,5,0,,4
+11781,Tourist,Downtown Dubai,36,Indoor Shortcut,1,0,75.0,4
+11782,Leisure Resident,DIFC,39,Indoor Shortcut,0,0,,3
+11783,Daily Commuter,Deira,37,Shaded Walking,4,0,,4
+11784,Daily Commuter,Jumeirah,42,Indoor Shortcut,4,0,,4
+11785,Daily Commuter,Jumeirah,35,Shaded Walking,3,0,,5
+11786,Leisure Resident,Deira,32,Metro-Taxi Combo,4,0,,4
+11787,Daily Commuter,DIFC,44,Metro-Taxi Combo,2,0,,5
+11788,Daily Commuter,Deira,45,Metro-Taxi Combo,0,0,,4
+11789,Tourist,DIFC,32,Shaded Walking,0,0,,4
+11790,Daily Commuter,Marina,42,Shaded Walking,3,0,75.0,5
+11791,Tourist,Deira,48,Indoor Shortcut,4,0,,5
+11792,Daily Commuter,DIFC,35,Indoor Shortcut,2,0,,2
+11793,Daily Commuter,Deira,43,Indoor Shortcut,0,0,,4
+11794,Daily Commuter,Deira,41,Indoor Shortcut,0,1,,4
+11795,Tourist,DIFC,37,Indoor Shortcut,1,0,,4
+11796,Tourist,DIFC,32,Shaded Walking,1,0,,5
+11797,Daily Commuter,Downtown Dubai,38,Shaded Walking,2,0,,5
+11798,Tourist,Deira,47,Metro-Taxi Combo,0,0,,4
+11799,Tourist,Jumeirah,45,Metro-Taxi Combo,0,0,,5
+11800,Tourist,Deira,37,Metro-Taxi Combo,1,0,,4
+11801,Leisure Resident,Deira,36,Metro-Taxi Combo,2,0,,5
+11802,Daily Commuter,DIFC,46,Shaded Walking,1,0,45.0,5
+11803,Daily Commuter,Deira,37,Shaded Walking,4,0,,5
+11804,Tourist,Deira,32,Shaded Walking,2,0,,4
+11805,Tourist,Jumeirah,32,Indoor Shortcut,3,0,,5
+11806,Daily Commuter,DIFC,44,Indoor Shortcut,2,0,,4
+11807,Daily Commuter,Deira,34,Metro-Taxi Combo,3,0,,5
+11808,Tourist,Marina,41,Indoor Shortcut,0,0,,4
+11809,Tourist,Downtown Dubai,34,Shaded Walking,4,0,45.0,4
+11810,Tourist,Jumeirah,40,Metro-Taxi Combo,2,0,,5
+11811,Daily Commuter,Deira,39,Metro-Taxi Combo,2,0,45.0,3
+11812,Daily Commuter,Marina,34,Indoor Shortcut,1,0,,5
+11813,Tourist,Deira,44,Metro-Taxi Combo,2,1,,5
+11814,Tourist,Deira,37,Indoor Shortcut,1,0,,5
+11815,Tourist,DIFC,44,Indoor Shortcut,1,0,,4
+11816,Leisure Resident,DIFC,43,Metro-Taxi Combo,0,0,,4
+11817,Tourist,DIFC,44,Indoor Shortcut,3,0,,-1
+11818,Daily Commuter,Marina,33,Indoor Shortcut,5,0,,3
+11819,Daily Commuter,Deira,47,Indoor Shortcut,2,0,,5
+11820,Daily Commuter,Downtown Dubai,37,Indoor Shortcut,1,0,,5
+11821,Tourist,Jumeirah,44,Metro-Taxi Combo,0,1,,5
+11822,Tourist,DIFC,48,Shaded Walking,1,0,45.0,5
+11823,Daily Commuter,DIFC,40,Shaded Walking,2,1,,5
+11824,Daily Commuter,Deira,48,Indoor Shortcut,0,0,,3
+11825,Daily Commuter,Deira,33,Indoor Shortcut,2,0,,4
+11826,Daily Commuter,Marina,38,Indoor Shortcut,1,0,,3
+11827,Tourist,Marina,41,Shaded Walking,1,1,,5
+11828,Leisure Resident,DIFC,41,Indoor Shortcut,5,0,,5
+11829,Daily Commuter,Deira,40,Metro-Taxi Combo,0,0,,5
+11830,Tourist,Downtown Dubai,48,Metro-Taxi Combo,2,0,,5
+11831,Leisure Resident,Jumeirah,46,Metro-Taxi Combo,0,0,,5
+11832,Daily Commuter,Deira,33,Shaded Walking,0,0,,3
+11833,Daily Commuter,Deira,35,Indoor Shortcut,0,0,,4
+11834,Daily Commuter,Marina,48,Indoor Shortcut,3,0,,3
+11835,Leisure Resident,Jumeirah,36,Indoor Shortcut,4,0,,5
+11836,Daily Commuter,DIFC,38,Shaded Walking,4,0,75.0,4
+11837,Tourist,Deira,38,Shaded Walking,1,0,,5
+11838,Tourist,DIFC,48,Shaded Walking,2,0,,5
+11839,Leisure Resident,Deira,38,Shaded Walking,2,0,,4
+11840,Tourist,DIFC,35,Metro-Taxi Combo,1,1,45.0,3
+11841,Daily Commuter,Jumeirah,39,Shaded Walking,3,0,,4
+11842,Daily Commuter,Marina,44,Shaded Walking,3,0,,4
+11843,Daily Commuter,Jumeirah,35,Shaded Walking,2,1,,5
+11844,Daily Commuter,Downtown Dubai,37,Indoor Shortcut,1,0,,3
+11845,Leisure Resident,Marina,36,Indoor Shortcut,3,0,,5
+11846,Tourist,Jumeirah,43,Indoor Shortcut,0,0,,5
+11847,Tourist,Downtown Dubai,35,Metro-Taxi Combo,3,0,,4
+11848,Tourist,Deira,40,Metro-Taxi Combo,2,0,,5
+11849,Leisure Resident,Deira,35,Shaded Walking,1,0,,5
+11850,Daily Commuter,DIFC,45,Indoor Shortcut,3,0,45.0,5
+11851,Tourist,Marina,36,Metro-Taxi Combo,3,1,,4
+11852,Leisure Resident,Deira,41,Indoor Shortcut,2,0,,4
+11853,Leisure Resident,Marina,43,Metro-Taxi Combo,3,0,,4
+11854,Leisure Resident,Deira,48,Metro-Taxi Combo,2,0,,4
+11855,Leisure Resident,DIFC,42,Shaded Walking,1,0,,5
+11856,Tourist,Jumeirah,34,Shaded Walking,3,0,,5
+11857,Daily Commuter,DIFC,48,Metro-Taxi Combo,1,0,45.0,5
+11858,Daily Commuter,Downtown Dubai,32,Shaded Walking,2,0,,3
+11859,Leisure Resident,Deira,46,Metro-Taxi Combo,2,0,,1
+11860,Daily Commuter,Downtown Dubai,40,Metro-Taxi Combo,4,0,,5
+11861,Daily Commuter,Downtown Dubai,46,Indoor Shortcut,1,0,,4
+11862,Daily Commuter,Marina,34,Shaded Walking,1,0,,4
+11863,Tourist,Deira,44,Shaded Walking,2,0,,5
+11864,Daily Commuter,Downtown Dubai,43,Shaded Walking,3,1,,3
+11865,Leisure Resident,Jumeirah,32,Indoor Shortcut,1,0,,5
+11866,Leisure Resident,Downtown Dubai,48,Indoor Shortcut,1,0,,4
+11867,Tourist,Jumeirah,44,Indoor Shortcut,2,0,,5
+11868,Tourist,Marina,32,Shaded Walking,1,0,,5
+11869,Tourist,Downtown Dubai,41,Shaded Walking,2,0,,4
+11870,Daily Commuter,DIFC,46,Shaded Walking,2,0,,5
+11871,Leisure Resident,Marina,38,Indoor Shortcut,1,0,,5
+11872,Tourist,Jumeirah,47,Indoor Shortcut,1,0,,5
+11873,Daily Commuter,Marina,45,Metro-Taxi Combo,2,0,,4
+11874,Leisure Resident,Downtown Dubai,38,Indoor Shortcut,1,0,,5
+11875,Daily Commuter,Deira,48,Metro-Taxi Combo,2,0,45.0,4
+11876,Daily Commuter,Deira,43,Shaded Walking,2,0,,5
+11877,Daily Commuter,Jumeirah,39,Indoor Shortcut,3,0,,5
+11878,Daily Commuter,Jumeirah,33,Shaded Walking,3,0,,4
+11879,Tourist,Deira,38,Shaded Walking,2,0,,5
+11880,Daily Commuter,Jumeirah,35,Shaded Walking,4,0,45.0,4
+11881,Daily Commuter,Marina,37,Shaded Walking,4,0,,4
+11882,Leisure Resident,DIFC,40,Indoor Shortcut,1,0,,5
+11883,Daily Commuter,DIFC,40,Shaded Walking,3,0,,5
+11884,Daily Commuter,Marina,45,Metro-Taxi Combo,1,0,,4
+11885,Tourist,DIFC,39,Indoor Shortcut,0,0,,4
+11886,Daily Commuter,Downtown Dubai,34,Shaded Walking,3,0,,5
+11887,Tourist,Marina,36,Indoor Shortcut,3,0,,5
+11888,Tourist,Jumeirah,45,Metro-Taxi Combo,0,0,,3
+11889,Daily Commuter,Marina,35,Shaded Walking,0,0,,4
+11890,Leisure Resident,Deira,38,Metro-Taxi Combo,4,0,,5
+11891,Tourist,Jumeirah,43,Shaded Walking,1,1,,5
+11892,Daily Commuter,Deira,33,Metro-Taxi Combo,4,0,75.0,5
+11893,Leisure Resident,Jumeirah,42,Shaded Walking,2,0,,4
+11894,Tourist,DIFC,45,Indoor Shortcut,2,0,,5
+11895,Daily Commuter,Marina,47,Shaded Walking,3,0,45.0,5
+11896,Daily Commuter,Downtown Dubai,37,Indoor Shortcut,2,0,,4
+11897,Daily Commuter,Jumeirah,35,Shaded Walking,2,0,,5
+11898,Tourist,Jumeirah,46,Shaded Walking,0,0,,5
+11899,Daily Commuter,Deira,32,Metro-Taxi Combo,3,0,45.0,4
+11900,Daily Commuter,DIFC,38,Metro-Taxi Combo,2,0,,5
+11901,Daily Commuter,Deira,43,Metro-Taxi Combo,2,0,,5
+11902,Tourist,Deira,41,Shaded Walking,1,0,,5
+11903,Daily Commuter,DIFC,36,Shaded Walking,1,0,,5
+11904,Tourist,Downtown Dubai,43,Shaded Walking,1,0,,4
+11905,Daily Commuter,Deira,41,Indoor Shortcut,3,0,,4
+11906,Tourist,Deira,37,Indoor Shortcut,1,0,,5
+11907,Leisure Resident,Jumeirah,43,Shaded Walking,4,0,,4
+11908,Daily Commuter,DIFC,38,Metro-Taxi Combo,2,0,,4
+11909,Tourist,Marina,33,Metro-Taxi Combo,1,0,,5
+11910,Tourist,Downtown Dubai,41,Metro-Taxi Combo,1,0,75.0,3
+11911,Tourist,Downtown Dubai,46,Shaded Walking,3,0,,5
+11912,Leisure Resident,DIFC,43,Metro-Taxi Combo,2,0,45.0,4
+11913,Leisure Resident,Jumeirah,48,Shaded Walking,0,0,45.0,4
+11914,Daily Commuter,Jumeirah,35,Indoor Shortcut,3,0,,5
+11915,Daily Commuter,DIFC,38,Metro-Taxi Combo,1,0,,5
+11916,Daily Commuter,Jumeirah,40,Indoor Shortcut,0,0,,5
+11917,Leisure Resident,Downtown Dubai,38,Metro-Taxi Combo,6,0,,5
+11918,Daily Commuter,Downtown Dubai,33,Shaded Walking,1,0,,5
+11919,Daily Commuter,Marina,37,Shaded Walking,4,0,45.0,5
+11920,Daily Commuter,DIFC,37,Shaded Walking,3,0,,5
+11921,Daily Commuter,Deira,44,Shaded Walking,3,0,45.0,5
+11922,Tourist,Deira,33,Metro-Taxi Combo,3,0,,4
+11923,Daily Commuter,Marina,43,Indoor Shortcut,3,0,75.0,5
+11924,Daily Commuter,Marina,46,Shaded Walking,1,0,,4
+11925,Daily Commuter,Jumeirah,45,Metro-Taxi Combo,0,0,,5
+11926,Tourist,Marina,37,Indoor Shortcut,1,1,,3
+11927,Daily Commuter,Marina,36,Shaded Walking,1,0,,5
+11928,Daily Commuter,Deira,34,Indoor Shortcut,0,1,,5
+11929,Daily Commuter,Jumeirah,34,Shaded Walking,1,0,,-1
+11930,Tourist,Marina,41,Indoor Shortcut,3,0,,5
+11931,Daily Commuter,Marina,34,Indoor Shortcut,0,0,,5
+11932,Daily Commuter,Jumeirah,43,Shaded Walking,0,0,,4
+11933,Daily Commuter,DIFC,47,Metro-Taxi Combo,2,0,,-1
+11934,Daily Commuter,Jumeirah,48,Indoor Shortcut,1,1,,4
+11935,Daily Commuter,Deira,38,Shaded Walking,4,0,,5
+11936,Leisure Resident,DIFC,44,Indoor Shortcut,0,0,,4
+11937,Tourist,Downtown Dubai,33,Indoor Shortcut,2,1,,5
+11938,Leisure Resident,Jumeirah,35,Metro-Taxi Combo,4,0,,5
+11939,Daily Commuter,Deira,41,Indoor Shortcut,2,0,,5
+11940,Tourist,DIFC,38,Indoor Shortcut,4,0,45.0,5
+11941,Tourist,Jumeirah,48,Shaded Walking,1,0,,5
+11942,Tourist,Marina,37,Shaded Walking,2,0,,4
+11943,Daily Commuter,Jumeirah,36,Metro-Taxi Combo,0,1,,5
+11944,Daily Commuter,Downtown Dubai,41,Indoor Shortcut,2,0,45.0,5
+11945,Daily Commuter,Jumeirah,40,Indoor Shortcut,2,1,,3
+11946,Daily Commuter,DIFC,44,Indoor Shortcut,4,0,,3
+11947,Daily Commuter,DIFC,37,Metro-Taxi Combo,1,0,,3
+11948,Tourist,Jumeirah,35,Indoor Shortcut,5,0,,5
+11949,Tourist,DIFC,34,Shaded Walking,1,0,,3
+11950,Daily Commuter,Marina,34,Metro-Taxi Combo,0,0,,4
+11951,Tourist,Jumeirah,35,Shaded Walking,3,0,,4
+11952,Tourist,Marina,36,Shaded Walking,1,0,,5
+11953,Daily Commuter,Marina,39,Metro-Taxi Combo,3,0,,5
+11954,Daily Commuter,Deira,47,Shaded Walking,4,0,,5
+11955,Leisure Resident,Jumeirah,34,Indoor Shortcut,0,0,,5
+11956,Leisure Resident,DIFC,43,Metro-Taxi Combo,1,0,,4
+11957,Daily Commuter,Marina,39,Shaded Walking,2,0,,4
+11958,Daily Commuter,Deira,44,Indoor Shortcut,1,1,,5
+11959,Daily Commuter,Jumeirah,35,Indoor Shortcut,4,0,,4
+11960,Daily Commuter,Jumeirah,45,Shaded Walking,1,0,,4
+11961,Tourist,Downtown Dubai,45,Indoor Shortcut,4,0,45.0,5
+11962,Daily Commuter,Downtown Dubai,44,Metro-Taxi Combo,0,0,,4
+11963,Leisure Resident,Marina,37,Shaded Walking,0,1,45.0,5
+11964,Daily Commuter,Downtown Dubai,48,Indoor Shortcut,2,0,75.0,4
+11965,Daily Commuter,Marina,35,Indoor Shortcut,4,0,,5
+11966,Daily Commuter,DIFC,39,Shaded Walking,4,0,,2
+11967,Tourist,Marina,48,Shaded Walking,1,0,45.0,4
+11968,Daily Commuter,Downtown Dubai,34,Shaded Walking,3,0,,4
+11969,Tourist,DIFC,48,Shaded Walking,1,0,,5
+11970,Tourist,Downtown Dubai,40,Metro-Taxi Combo,1,0,,5
+11971,Tourist,Marina,33,Shaded Walking,1,1,,4
+11972,Leisure Resident,Deira,44,Metro-Taxi Combo,2,0,,5
+11973,Tourist,Jumeirah,33,Metro-Taxi Combo,3,1,,5
+11974,Daily Commuter,Downtown Dubai,42,Shaded Walking,3,0,,5
+11975,Tourist,Marina,46,Metro-Taxi Combo,0,0,,5
+11976,Leisure Resident,DIFC,42,Shaded Walking,0,0,,3
+11977,Tourist,Downtown Dubai,34,Shaded Walking,0,1,,5
+11978,Daily Commuter,Downtown Dubai,34,Indoor Shortcut,1,0,,5
+11979,Leisure Resident,Jumeirah,43,Shaded Walking,2,0,,1
+11980,Leisure Resident,Marina,36,Indoor Shortcut,3,0,,4
+11981,Tourist,Deira,38,Metro-Taxi Combo,2,0,,5
+11982,Leisure Resident,DIFC,38,Indoor Shortcut,3,0,,5
+11983,Daily Commuter,Marina,44,Metro-Taxi Combo,3,1,,5
+11984,Daily Commuter,DIFC,40,Shaded Walking,4,0,,-1
+11985,Tourist,Downtown Dubai,44,Metro-Taxi Combo,2,0,,5
+11986,Tourist,Jumeirah,43,Metro-Taxi Combo,1,0,,1
+11987,Daily Commuter,Jumeirah,44,Shaded Walking,2,0,,4
+11988,Daily Commuter,Deira,41,Metro-Taxi Combo,2,0,45.0,2
+11989,Daily Commuter,Jumeirah,32,Shaded Walking,2,0,45.0,3
+11990,Daily Commuter,Downtown Dubai,39,Indoor Shortcut,1,0,,4
+11991,Daily Commuter,Deira,47,Shaded Walking,1,0,,5
+11992,Tourist,Marina,44,Shaded Walking,0,0,,5
+11993,Daily Commuter,Jumeirah,34,Metro-Taxi Combo,0,1,45.0,5
+11994,Tourist,Deira,34,Indoor Shortcut,2,0,,5
+11995,Daily Commuter,Downtown Dubai,36,Shaded Walking,1,0,,5
+11996,Daily Commuter,DIFC,42,Indoor Shortcut,7,0,,5
+11997,Leisure Resident,DIFC,38,Indoor Shortcut,1,1,,5
+11998,Tourist,Downtown Dubai,41,Metro-Taxi Combo,1,1,,4
+11999,Tourist,Downtown Dubai,41,Shaded Walking,1,0,,4
+12000,Tourist,DIFC,33,Metro-Taxi Combo,2,0,,5
